@@ -1,0 +1,1001 @@
+place_id,latitude,longitude,name,rating,types,added_date,updated_date,id
+ChIJZ2hkEPQ__ToRE3XiF-EhdtA,7.9887507,79.7447462,"St.Mary's Church Navatkadu",4.8,"place_of_worship point_of_interest establishment","2017-07-27 10:49:43","0000-00-00 00:00:00",1
+ChIJ57C1Efs9_ToR0BNPmahtPWQ,7.999073099999999,79.8371878,"Rathmalyaya Masjid",3.8,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:49","0000-00-00 00:00:00",2
+ChIJyXvbl_o9_ToRfZoBPTa1ntU,7.998597399999999,79.8400672,"Rathmalyaya Jumma Masjid (Mosque)",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:50","0000-00-00 00:00:00",3
+ChIJGxdfOfc9_ToR2KKc77nlSFg,8.0036011,79.8426216,"Al Rawlathul Furkaniya (Al Jiddah ) Mosque",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:50","0000-00-00 00:00:00",5
+ChIJdTpNeAIW_ToRVfZRRTy6DmQ,8.0081445,79.8377459,"Mohideen Jumma Masjid - Grand Masjid Thillayadi",4.4,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:51","0000-00-00 00:00:00",6
+ChIJUVUsLfQ9_ToR34i_tQs9UM8,8.0054498,79.8470382,"Aiyanar Kovil Aanaipuloothu",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:49:51","0000-00-00 00:00:00",7
+ChIJtWkiY-Y9_ToR3VhmYAAU5NQ,7.9910456,79.8382822,"Hijrathpuram Jumma Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:51","0000-00-00 00:00:00",8
+ChIJe3pjNek9_ToRjYxNwAHZIfU,7.991846799999998,79.8450608,"Thakkiya Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:52","0000-00-00 00:00:00",9
+ChIJGzqtsgMW_ToRv65_J95z0hY,8.0106032,79.8373407,"O.L.of Velankanni Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:49:52","0000-00-00 00:00:00",10
+ChIJo-M9LQMW_ToRg_NFGzxX8V8,8.011252199999998,79.84079469999999,"Hithaya Jum'ah Masjidh",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:53","0000-00-00 00:00:00",11
+ChIJq20R1-Y9_ToRfzHUQXsuO-w,7.989271999999999,79.8358628,"Kobbekaduwa Viharaya Palaviya",5,"place_of_worship point_of_interest establishment","2017-07-27 10:49:53","0000-00-00 00:00:00",12
+ChIJXeZq4ew9_ToRMUKC1oIH0SM,7.9945418,79.8504125,"Al Qassimicity Mosque",4.2,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:53","0000-00-00 00:00:00",13
+ChIJb2iZMxwW_ToRGqy2K3R-BNc,8.011000200000002,79.8455295,"Zam Zam Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:54","0000-00-00 00:00:00",14
+ChIJ7cD4hxsW_ToRNBK5McG-xz0,8.0134693,79.8443533,"Al Aqsha Jumma Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:49:54","0000-00-00 00:00:00",15
+ChIJ9-04dQYW_ToRVSernquSio0,8.0172166,79.8351825,"புராதன அய்யனார் ஆலயம்",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:49:54","0000-00-00 00:00:00",16
+ChIJoUdelQw9_ToR7K4O1s0HU7s,7.985973600000001,79.881658,"Thambapanni Viharaya Bodhirajapura",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:49:56","0000-00-00 00:00:00",21
+ChIJhX-hOkI9_ToR-uOPoNZ7fQE,7.994126699999998,79.8988042,"Sri Sugatharaama Temple",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:49:56","0000-00-00 00:00:00",22
+ChIJxUbBIG4g_ToRC-fQI1bucxQ,7.985479599999998,80.08691089999999,"Mulgirigala Rajamaha Viharaya",5,"place_of_worship point_of_interest establishment","2017-07-27 10:49:58","0000-00-00 00:00:00",23
+ChIJ57BeGBHe_DoRBujoBb9CANM,8.0020936,80.17233569999999,"Mahananneriya Temple",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:49:59","0000-00-00 00:00:00",24
+ChIJs53SAW3d_DoRUU5HPJkRgCM,7.998459,80.24589759999999,"Rambottukulama Temple",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:50:01","0000-00-00 00:00:00",26
+ChIJ3dM94Ujd_DoRbvMt9LE16Oo,8.0006057,80.2681008,"Al Masjithul Hasanath Jumma Mosque",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:02","0000-00-00 00:00:00",27
+ChIJN0Y9sE7d_DoRI6XRLXyLR1Q,8.0028209,80.2704155,"Nilgirilena Rajamaha Viharaya",5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:02","0000-00-00 00:00:00",28
+ChIJCX75dDbd_DoRWEDlcQMecN0,7.995350399999999,80.2709847,"Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:50:02","0000-00-00 00:00:00",29
+ChIJYRA4PUrd_DoR_DE5TIKol3E,7.998320099999999,80.2719022,"Town Thakkiya Mosque",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:03","0000-00-00 00:00:00",30
+ChIJt7-D1zDd_DoRoomPFr3ax1g,7.990776999999999,80.26830199999999,"Galgamuwa Mosque",3.5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:03","0000-00-00 00:00:00",31
+ChIJJ-aQXz3d_DoR0ijqsgxQ0Z4,7.9865507,80.25460919999999,"Mottapettewa Temple",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:03","0000-00-00 00:00:00",32
+ChIJN9hJgjrd_DoRgbN0IYYEIH4,7.9884883,80.2654104,"Aluthherathgama Temple",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:50:03","0000-00-00 00:00:00",33
+ChIJMaXMtEvd_DoRoiLlHMhdK2E,7.999641499999999,80.2727701,"Pillair Kovil",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 10:50:04","0000-00-00 00:00:00",34
+ChIJcVHURrTC_DoROPdK84r3zTs,8.000784699999999,80.2807263,"Assembly of God Church.",4.5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:04","0000-00-00 00:00:00",36
+ChIJYTh977rC_DoRjBtcJnkzQsY,8.0062299,80.28996599999999,"Kankaniyagama Viharasthanaya",2,"place_of_worship point_of_interest establishment","2017-07-27 10:50:05","0000-00-00 00:00:00",40
+ChIJFYbW6cXC_DoR7eJociOgYPU,7.9910466,80.2892607,"St.Joseph-Vaz Church Maha Galgamuwa",4.9,"church place_of_worship point_of_interest establishment","2017-07-27 10:50:06","0000-00-00 00:00:00",42
+ChIJPS92VszC_DoRYRPfMsX5DeQ,7.9891619,80.2796937,Priyadarshanaramaya,-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:50:06","0000-00-00 00:00:00",45
+ChIJva5zF7vC_DoR5rPJUswZShg,8.006573599999998,80.291437,"Sri Sambodhi Viharaya",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:07","0000-00-00 00:00:00",47
+ChIJKxq6BJbC_DoR5C11cyhz_5g,8.003189899999999,80.2993985,"Weherayaya Viharaya",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:07","0000-00-00 00:00:00",48
+ChIJJ-fk6N3C_DoRgqMTNx0irM0,7.982156199999998,80.2978553,"St.Anthony's Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:50:08","0000-00-00 00:00:00",51
+ChIJTXTLzIbC_DoRcLG4ZWKucGY,8.014111399999999,80.3175849,"Ehetugalayaya Aranya Senasanaya",5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:09","0000-00-00 00:00:00",53
+ChIJ1w2OgtnB_DoRxP5QVJIiE5E,8.016516799999998,80.3965454,"Athdalagala Aranya Senasanaya",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:10","0000-00-00 00:00:00",54
+ChIJy65Ltk7A_DoR8LFOl2K6t_E,7.9944141,80.4172519,"Raswehera Buddha Statue",4.8,"place_of_worship point_of_interest establishment","2017-07-27 10:50:10","0000-00-00 00:00:00",55
+ChIJh658wU7A_DoRfal6vjUKpu4,7.994580999999999,80.4176992,"Reswehara Temple",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:50:11","0000-00-00 00:00:00",56
+ChIJsz9dx07A_DoRuLjdHsh5Js8,7.9940053,80.4174865,"Reswehera Purana Rajamaha Viharaya",4.4,"place_of_worship point_of_interest establishment","2017-07-27 10:50:12","0000-00-00 00:00:00",58
+ChIJ0zuLi3PA_DoRhSLouiRqcu0,7.997491899999999,80.4488191,"Thammanewa Purana Raja Maha Viharaya",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:50:13","0000-00-00 00:00:00",60
+ChIJLeVYQZO__DoRNU0Nw8BLYb0,8.0004423,80.4708046,"Musnewa Temple",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:50:13","0000-00-00 00:00:00",61
+ChIJn6xyPsO__DoR6Who6GyCm_g,8.0112869,80.4810119,"Mahamewna Asapuwa Galnewa",3.4,"place_of_worship point_of_interest establishment","2017-07-27 10:50:14","0000-00-00 00:00:00",63
+ChIJ9XaUe6O__DoRvQAJBZKqqkk,7.988768599999998,80.482294,"Niyangama Mosque (Takya)",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:14","0000-00-00 00:00:00",64
+ChIJeV3oWkS-_DoR1uCgYo8Dt74,7.995034799999998,80.5141013,"Masjid Ul Huda",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:15","0000-00-00 00:00:00",66
+ChIJ0WFzAju-_DoRkozyH4X8bt4,8.010142000000002,80.51311559999999,"Aukana Rajamaha Viharaya",4.5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:15","0000-00-00 00:00:00",67
+ChIJk912-Tq-_DoRBOwsK7ti8NY,8.0108714,80.5127773,"Aukana Buddha Statue",4.8,"place_of_worship point_of_interest establishment","2017-07-27 10:50:16","0000-00-00 00:00:00",68
+ChIJR_Us8wW-_DoRav5f_tDaCUY,8.014318300000001,80.5369104,"Kadawara Dewalaya, Kala Wewa",1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:17","0000-00-00 00:00:00",72
+ChIJdQepAwO9_DoRBHLq8EGPWy4,7.9857768,80.5971187,"Horapola Thawheed Mosque",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:18","0000-00-00 00:00:00",73
+ChIJo4dIqRC9_DoRctuEf8UOECs,7.994127100000001,80.6045149,"Pahalagama Jumma Mosque",4,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:18","0000-00-00 00:00:00",74
+ChIJizyWMi69_DoROsu0BIz3n4Q,7.993553700000001,80.6244564,"Maha Elagamuwa wiharaya",3.8,"place_of_worship point_of_interest establishment","2017-07-27 10:50:19","0000-00-00 00:00:00",75
+ChIJi4mojtai_DoRyOYwKfgutr4,7.986911999999998,80.63927060000002,"Kuda Elagamuva Sri Bodhirajaramaya temple",5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:19","0000-00-00 00:00:00",77
+ChIJ-e6b3Zyh_DoROsiBwtHyA8g,7.989166999999999,80.7338262,"Sri Dharmawardanarama Purana Viharaya",5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:21","0000-00-00 00:00:00",79
+ChIJNdRptpah_DoRHzaDhBoVcJw,8.0010201,80.7385039,"Veherahena Kalyani Yogasramaya",5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:21","0000-00-00 00:00:00",80
+ChIJq-abhWag_DoRqgGCgdOsdnM,7.994903,80.79285089999999,"Gallinda Purana Devalaya",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:22","0000-00-00 00:00:00",82
+ChIJFYZ9M65d-zoROp8anmmoQHQ,7.998591099999999,80.9328045,"Sri Dharmavijayarama Viharaya",1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:24","0000-00-00 00:00:00",84
+ChIJI40-2KFd-zoRvOFn_GAv9eo,8.012017499999999,80.93936579999999,"Sri Agrabodhi Viharaya",5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:25","0000-00-00 00:00:00",86
+ChIJkTZo9AJd-zoRWpG2qQ0QzPc,7.992371700000001,80.95144719999999,"Sri Mangala Bodhirajarama Viharaya",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:25","0000-00-00 00:00:00",87
+ChIJwX_B6iBd-zoRIADSKvzkTE4,7.9926108,80.96903979999999,"Jayanthipura Temple",1.5,"place_of_worship point_of_interest establishment","2017-07-27 10:50:26","0000-00-00 00:00:00",89
+ChIJweMQ7SVd-zoRjpLeTVcOZ6o,7.9979549,80.9752451,"Nagapokuna Sri Nagaviharaya",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:26","0000-00-00 00:00:00",90
+ChIJSZ5HfrVC-zoR3FoAYxEEBSU,8.0133068,80.9896438,"Unagalawehera Raja Maha Viharaya",4.3,"place_of_worship point_of_interest establishment","2017-07-27 10:50:27","0000-00-00 00:00:00",93
+ChIJ_xPtBcFC-zoRg2lk3c1MJDA,8.0102526,81.0060194,"St. Sebastian Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:50:28","0000-00-00 00:00:00",94
+ChIJJUzETZNC-zoRnOoY_Kl66Mw,8.01404,81.0156793,"Sinhapura Vipassana Meditation Centre",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:28","0000-00-00 00:00:00",96
+ChIJAY2eEzpC-zoRi_Y7dLhkYEQ,8.004905899999997,81.0601008,"Pulathisigama Viharaya",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:50:29","0000-00-00 00:00:00",98
+ChIJk8eCMz1C-zoR85yu49ybasM,8.013118799999999,81.0642482,"Al Rifai Jumah Mosque",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:30","0000-00-00 00:00:00",99
+ChIJJw5fTPNB-zoR3ZPefzc37fM,8.015403299999997,81.0819199,"Grand Jumma Mosque",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:30","0000-00-00 00:00:00",100
+ChIJYRhnj3xB-zoR0_2KjkUT2Nk,7.984879400000001,81.0800793,"Sri Sudharmarama Viharaya",-1,"premise place_of_worship point_of_interest establishment","2017-07-27 10:50:30","0000-00-00 00:00:00",101
+ChIJ5c5_v4Q_-zoRyBhOMK5zmRI,8.0023561,81.17355289999999,"Kattuwanvila Muhaideen Jumma Mosque",2,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:32","0000-00-00 00:00:00",102
+ChIJyVDIKxwh-zoRS-RLuoEFBC0,7.985827199999998,81.46882649999999,"Masjithul Akram",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:50:35","0000-00-00 00:00:00",104
+ChIJ9UcUWlsg-zoRR-CBFoexeog,8.012274699999999,81.4878968,"Queen of Angeles Church",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:50:35","0000-00-00 00:00:00",105
+ChIJR1js19kDBjsR34fP9SSM1h8,9.0303173,76.5142165,"Sree Mookkumpuzha Devi temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:26","0000-00-00 00:00:00",108
+ChIJAwmb29kDBjsRFjfXH9vQj8c,9.0306746,76.51464969999999,"Sree Mookkumpuzha Devi Temple Pandarathuruthu",4.8,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:27","0000-00-00 00:00:00",109
+ChIJvwDbvdcDBjsRdYgEclPigXs,9.0273114,76.5132405,"Channasseril Sree Yogeeswara Swami Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:27","0000-00-00 00:00:00",110
+ChIJ1bNyqWIBBjsR2Wsk_l8J1t0,9.026805099999999,76.5145883,"Sree Subrahmanyaswami Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:27","0000-00-00 00:00:00",111
+ChIJZxQEeGwBBjsRVb50odfh9IQ,9.0088597,76.51998859999999,"Kattil Mekkathil Devi Temple",4.6,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:28","0000-00-00 00:00:00",112
+ChIJ1VsbeUEBBjsRylPsNsHlOcI,9.010884599999999,76.528796,"Cheplazhikath Devi temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:29","0000-00-00 00:00:00",115
+ChIJ1WoZGWQBBjsRCGb69rXk5u8,9.020652100000001,76.5194904,"Ponmana Sree Durga Devi Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:29","0000-00-00 00:00:00",116
+ChIJDU-YkmgBBjsR_g4heU30834,9.015236099999997,76.5220499,"Kalangara Siva Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:30","0000-00-00 00:00:00",117
+ChIJP4TvbmEBBjsRbM9HfjxeXwQ,9.0285686,76.52271510000001,"Kottinattiseril Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:30","0000-00-00 00:00:00",119
+ChIJuTqAWuADBjsRm7lWWW2ZMPk,9.0296915,76.5278656,"Kunninazhikathu Sreenarayana Bhadra Devi Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:31","0000-00-00 00:00:00",121
+ChIJMVypWhUBBjsRMl2sf2AEqfk,9.005115800000002,76.5250023,"Karungayil Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:31","0000-00-00 00:00:00",122
+ChIJ1xOEhdwDBjsRxE8Etnq08lc,9.0358168,76.5206153,"Kottara Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:53:31","0000-00-00 00:00:00",123
+ChIJ-VGw9FkBBjsRToX1fr12s00,9.0226905,76.5358526,"Konthara Vayal Ambalam",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:32","0000-00-00 00:00:00",124
+ChIJERdogd0DBjsRt5KhRGqW_tU,9.0352626,76.5253893,"Sasthanada Shree Dharma Shasthra Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:32","0000-00-00 00:00:00",125
+ChIJhZiP9xQBBjsRbDwb0VYXHpA,9.0031205,76.5220516,"Anchumanakal Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:32","0000-00-00 00:00:00",126
+ChIJz_nhXUUBBjsR_no70kUsTSo,9.016781500000002,76.5375061,Porookkara,4.6,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:53:33","0000-00-00 00:00:00",127
+ChIJ_4_Gf1cBBjsRggI_MVkR2OA,9.0250442,76.5373331,"Kollaka Sree Durga Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:33","0000-00-00 00:00:00",128
+ChIJwbwl1N4DBjsRI3NgrsDn31M,9.03018,76.52037109999999,"St Thomas Marthoma Syrian Church , Kozhikode- Karunagapalli",-1,"church premise place_of_worship point_of_interest establishment","2017-07-27 10:53:33","0000-00-00 00:00:00",129
+ChIJO9JY-U8BBjsRpnX0-b1H_pA,9.0166892,76.5375786,"Poorookkara Mosque",-1,"mosque premise place_of_worship point_of_interest establishment","2017-07-27 10:53:34","0000-00-00 00:00:00",130
+ChIJjaeRDkcBBjsRtY7pFeV8lMI,9.007989400000001,76.5338302,"Panmana Sree Subrahmanya Temple",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 10:53:34","0000-00-00 00:00:00",131
+ChIJhXfMTKwGBjsRKLtitK1BXvg,9.0203408,76.55268339999999,"Kshethrodharana Kalasamskarika Samajam",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:53:41","0000-00-00 00:00:00",132
+ChIJFblIQVEBBjsR2O11EZQ1Zfo,9.021576899999998,76.5418875,"vettamuku srikrishna temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:41","0000-00-00 00:00:00",134
+ChIJuSKRQFEBBjsRyG7JmM3cKXc,9.0215736,76.54191399999999,"Vettamukku Temple Pond",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:42","0000-00-00 00:00:00",135
+ChIJkd7CUVEBBjsRfh6lZhcCSyw,9.022198800000002,76.5422754,"Vettamukku Thaykkavu",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:53:42","0000-00-00 00:00:00",136
+ChIJATdk8VMBBjsRl5IwSAPahLY,9.022332199999997,76.5440952,"Pulinthanathu Devi Kshetram",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:42","0000-00-00 00:00:00",138
+ChIJ6YK3i04BBjsRbGt3FigDHJQ,9.0143195,76.54185799999999,"SALAFI MASJID",1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:53:43","0000-00-00 00:00:00",141
+ChIJNatInVIBBjsRLFBvljscPWY,9.017469899999998,76.54669969999999,"Mullamangalam Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:53:43","0000-00-00 00:00:00",142
+ChIJjUUn7lcBBjsRuXG74bE_H7w,9.0269773,76.5379889,"Kalathil Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:43","0000-00-00 00:00:00",143
+ChIJ0zeUYVMBBjsR6k6A2riOcXY,9.0227197,76.54709369999999,"Njarakkattu Kizhakkathil Kalari",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:44","0000-00-00 00:00:00",144
+ChIJxW4GaFMBBjsRINZ1iwb2uh0,9.022136899999998,76.54734049999999,"Mannoor Kuriyala",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:44","0000-00-00 00:00:00",145
+ChIJTW5vmf0DBjsRu_gtB2WPEUo,9.0290347,76.54064950000001,"3 Kings Church",4.7,"church place_of_worship point_of_interest establishment","2017-07-27 10:53:44","0000-00-00 00:00:00",146
+ChIJgz50OEkBBjsRyIJ3HUsqvSQ,9.0110426,76.5415817,"Kannam Kulangara Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:45","0000-00-00 00:00:00",147
+ChIJ4yN57UwBBjsRTVht-Pyv15U,9.0135139,76.5466826,"Kottackakathue Sree Durga Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:45","0000-00-00 00:00:00",148
+ChIJ90V0e0wBBjsRPhVx8f8uc3c,9.012483,76.5454968,"PUTHUMANA SREEBHADRA DEVI TEMPLE",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:45","0000-00-00 00:00:00",149
+ChIJdwPomawGBjsRWvFfJiseRwE,9.022317000000001,76.5505403,"Nelliparambil Shree Bhadra Bhagavathi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:46","0000-00-00 00:00:00",150
+ChIJkc9Xf_4DBjsRkBsrpB2M-uk,9.0308441,76.5429175,"kuttivattom jum-a masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:53:46","0000-00-00 00:00:00",151
+ChIJS8b0HpcGBjsRa26ZzZoCrXU,9.0160501,76.57604959999999,"Thevalakkara Major Devi Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:58","0000-00-00 00:00:00",192
+ChIJhfhn8JcGBjsRF4tsPuVr4Pg,9.017824,76.572754,"Martha Mariam Orthodox Syrian Church & Mar Abo Pilgrim Centre",4.3,"church place_of_worship point_of_interest establishment","2017-07-27 10:53:58","0000-00-00 00:00:00",194
+ChIJl7DFQKUGBjsRL99zR3N5UcE,9.0190246,76.5617074,Mosque,-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:53:58","0000-00-00 00:00:00",195
+ChIJk-Qg3a4GBjsRxWtMUSgfrOA,9.021991200000002,76.5568462,"Parambimukku Palli",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:53:59","0000-00-00 00:00:00",196
+ChIJz-nN864GBjsRYFYYmvAuI5g,9.0209521,76.55635869999999,"Thekkan Kodungalloor Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:53:59","0000-00-00 00:00:00",197
+ChIJt6jDH64GBjsRTS-_NdFBfik,9.017802699999999,76.555944,"Salafi Juma Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:00","0000-00-00 00:00:00",198
+ChIJnSRshKQGBjsRoaqTmzLx9hg,9.02037,76.5657404,"Indilayappan Nada",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:00","0000-00-00 00:00:00",199
+ChIJr30qdakGBjsRyoKoouduIwE,9.025683899999999,76.5560362,"Kottapurathu Sree Bhagavathy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:00","0000-00-00 00:00:00",200
+ChIJISnZe7EGBjsRseZwKxrKaHI,9.0147146,76.5550263,"SALAFI MASJID",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:01","0000-00-00 00:00:00",201
+ChIJPayQKroGBjsRQFoYbxah_eI,9.012660799999999,76.5631585,"KANEENEZHUTHU MUHURTHI DURGA TEMPLE",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:01","0000-00-00 00:00:00",202
+ChIJM8JGLKMGBjsRSg04YmSW8Fc,9.0184663,76.5685779,"Sree Narayana Guru Mandiram",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:54:01","0000-00-00 00:00:00",203
+ChIJa6U77KkGBjsROvePVbCfNUY,9.027465699999999,76.5555658,"Mujahid Masjid",3,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:02","0000-00-00 00:00:00",204
+ChIJ578ILqcGBjsRKcb_ajmHJ6I,9.0268395,76.565784,"St Gegorios Orthodox Chapel",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:02","0000-00-00 00:00:00",205
+ChIJpebafR0EBjsRw-QyBv01_NI,9.0289213,76.56287309999999,"Hebron Marthoma church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:03","0000-00-00 00:00:00",206
+ChIJLVlkPbwGBjsRF1lAfqNT5oY,9.0135725,76.5676367,Temple,-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:03","0000-00-00 00:00:00",208
+ChIJW4WENh0EBjsRrRys7tAAz-4,9.030278599999999,76.56076929999999,"Sharaful Islaam Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:03","0000-00-00 00:00:00",209
+ChIJh6z1_7YGBjsRsd4FsCRwFcw,9.0097154,76.55741549999999,"Muhiyadheen masjid Padinjatakara",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:04","0000-00-00 00:00:00",210
+ChIJgVdVHwIEBjsRhCoYhZvvR2s,9.02986,76.5549616,"Chambakadavu Thaikkavu",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:04","0000-00-00 00:00:00",211
+ChIJG5UG8JwGBjsRxEraeClLAbk,9.0260945,76.5813033,"Marthoma Valiyapalli",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:16","0000-00-00 00:00:00",254
+ChIJSzGma-sGBjsRl5hd4Gbn07o,9.0061457,76.57646919999999,"Thekkan Guruvayoor Temple",4.2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:16","0000-00-00 00:00:00",255
+ChIJMTd20ooGBjsRyVuqQqSVCgA,9.0085392,76.5928844,"Areekkavu Devi Temple, Arinallor",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:17","0000-00-00 00:00:00",256
+ChIJP2dWLpoGBjsRHPnK3-bZk1c,9.020793800000002,76.5782717,"Amachira Ambalam",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:17","0000-00-00 00:00:00",257
+ChIJNdmYa5cGBjsRar8AtvXvvJo,9.017350099999998,76.57595959999999,"St. Thomas Evangelical Church Of India",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:17","0000-00-00 00:00:00",258
+ChIJU-NiQZwGBjsRw_9LOdiT7KQ,9.0256013,76.5795036,"St. Mary's Chapel",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:17","0000-00-00 00:00:00",259
+ChIJq5enHpcGBjsR1reQOb6XTO8,9.0160759,76.5759194,"Thevalakkara Hindu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:18","0000-00-00 00:00:00",260
+ChIJo3Vpp4UGBjsRUo9kLKcYBqQ,9.0206591,76.58645109999999,"Church Of Goo, Thevalakkara",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:18","0000-00-00 00:00:00",261
+ChIJ622zrpcGBjsR3D49tYrsvnQ,9.0161305,76.57446159999999,"Thevalakkra Agadi Ganapati",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:19","0000-00-00 00:00:00",262
+ChIJiQYf-pcGBjsRP6MxXXZ6hj0,9.018015,76.5725827,"Mar Abo Pilgrim Centre",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:19","0000-00-00 00:00:00",263
+ChIJF45OBpgGBjsR15D_NmVn2pU,9.018909399999998,76.57214850000001,"Kothamangalathu Sri Nagaraja Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:19","0000-00-00 00:00:00",264
+ChIJ04Fj3ZcGBjsRJS3lgh2cf6U,9.016992599999998,76.57251149999999,"Thevalakkara Chaliyath Muslim Jamath",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:20","0000-00-00 00:00:00",265
+ChIJ8du55pcGBjsRrkyXOwtXLqc,9.017273199999998,76.5723494,"ablution pond (Thevalakkara Chaliyath Muslim Mosq)",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:20","0000-00-00 00:00:00",266
+ChIJ_4O0NZYGBjsRSll5HlKQeAE,9.0154547,76.5732154,"Ashramathu Family Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:20","0000-00-00 00:00:00",267
+ChIJzZtRNpYGBjsRnVBv5B3aJJI,9.0152076,76.5732415,"Panikkaveetil Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:21","0000-00-00 00:00:00",268
+ChIJKfqolZ0GBjsRosNliXpHb70,9.0281988,76.5793583,"The Pentecostal Mission Thevalakara",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:21","0000-00-00 00:00:00",269
+ChIJ8d7RvKIGBjsRM16aIavQPnk,9.019452399999997,76.57119,"Sri Rajarsjeswari Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:21","0000-00-00 00:00:00",270
+ChIJZxWNGp4GBjsRTBWrA8ULUpo,9.0287253,76.57685649999999,"REHOBOTH TRINITY CHURCH",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:22","0000-00-00 00:00:00",271
+ChIJRVG8RFkGBjsRgU4M9JYi5FA,9.0022223,76.60003379999999,"Thoombalil Sree Bhadra- Durga Devi Kshethram",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:34","0000-00-00 00:00:00",313
+ChIJD7PdwHwGBjsRb-jsWhMs2bg,9.0204352,76.5992385,"Bharata Ranji Shrine",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:54:34","0000-00-00 00:00:00",314
+ChIJTaf6_nwGBjsRvXYioK26WZU,9.021798,76.59816599999999,"PANDARAVILA DEVI TEMPLE",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:35","0000-00-00 00:00:00",315
+ChIJn6QMSHwGBjsRubNESAe2Odo,9.023295799999998,76.5986417,"Sree Pandaravila Muhoorthi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:35","0000-00-00 00:00:00",316
+ChIJTSQtVm8GBjsRVA-yUp8IX2o,9.014767299999999,76.60656589999999,"Thalayinakkavu Siva Parvathi Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:35","0000-00-00 00:00:00",317
+ChIJBU-Bq3AGBjsRLjKki2_09R0,9.0249037,76.6069089,"Karalimukku Juma Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:36","0000-00-00 00:00:00",318
+ChIJm8C_AXoGBjsROi0WETiTU6k,9.025039999999999,76.60687829999999,Masjid,5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:36","0000-00-00 00:00:00",319
+ChIJ1aq48oYGBjsRNZhE46W1mlI,9.022327599999999,76.5907896,"Marthamariam Orthodox Church kurishadi",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:36","0000-00-00 00:00:00",320
+ChIJq_i6xGAGBjsR-iDBodkgkXc,9.010543900000002,76.5998065,"St George Latin Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:36","0000-00-00 00:00:00",321
+ChIJjzx63GgGBjsRifFf1Ho0QWQ,9.013274400000002,76.6089807,"Mar Anthrayos Orthodox Chapel",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:37","0000-00-00 00:00:00",322
+ChIJE8w0E3EGBjsRZqj-2_x4mPw,9.0233676,76.61098919999999,"Mahadevar Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:37","0000-00-00 00:00:00",323
+ChIJ10rBz9UFBjsR5bCnvPXg9DA,9.0323087,76.6000385,"Railway Station Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:54:37","0000-00-00 00:00:00",324
+ChIJAQAAwIEGBjsRFypOFtiA7HU,9.028483899999998,76.590722,"Madeathu Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:38","0000-00-00 00:00:00",325
+ChIJVVVVVWgGBjsRJT4jo-fdEuc,9.0116273,76.6094997,"Moolathara Yogiswaralayam",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:38","0000-00-00 00:00:00",326
+ChIJHdeTxIoGBjsRx61ZPtC3mYk,9.009268400000002,76.5930108,"Madaethu Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:38","0000-00-00 00:00:00",327
+ChIJEQpv-m0GBjsR_uSVydwwW_A,9.0194001,76.6130539,"Veliyath Durga Devi Temple,West Kallada",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:38","0000-00-00 00:00:00",328
+ChIJQT3d0IoGBjsRcxZA3a-ZT08,9.008848799999999,76.59260979999999,"Kaleelil Kudumbam",4.8,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:39","0000-00-00 00:00:00",329
+ChIJudYcGIcGBjsRtSJY3Ny5qNo,9.0263117,76.58752799999999,"Immanuel Mar Thoma Church",4.2,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:40","0000-00-00 00:00:00",331
+ChIJ5U2hgQ4GBjsRc2uM_DFpfOU,9.0231981,76.6241033,"Panampil Mahadheva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:52","0000-00-00 00:00:00",372
+ChIJSeIw5BQGBjsRzgQJ-dptiRs,9.012489,76.620031,"Parambil Sree Umaamaheshwara Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:52","0000-00-00 00:00:00",374
+ChIJNemaRQkGBjsRH2XAEzkIzYM,9.026417699999998,76.62488259999999,"Chakkulathu Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:52","0000-00-00 00:00:00",375
+ChIJeRpdzWoGBjsRep1V0sjat-0,9.011233299999999,76.6180837,"Kadampattukavu Sree Bhadradevi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:53","0000-00-00 00:00:00",376
+ChIJ7_gPpBUGBjsRqyjQikIVdm0,9.011095599999999,76.62146059999999,"Moolathra Sree Nagarcovil Temple",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:53","0000-00-00 00:00:00",377
+ChIJEfHMBxAGBjsRLP0ugSltEjE,9.0198463,76.6295478,"Kodum thurathil temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:53","0000-00-00 00:00:00",378
+ChIJvyUUk2oGBjsRBaLbafc5g2Y,9.010428,76.61624909999999,"Ilanjikkal Sree Periyaan Mahadevar Kshethram",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:54","0000-00-00 00:00:00",380
+ChIJ9_1sEhYGBjsRrAOelaHqaEo,9.010563900000001,76.6247321,"Sree Mummoolil Bhagavathy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:54","0000-00-00 00:00:00",381
+ChIJ7dKOfwoGBjsRBDV7n_Mue7g,9.0309365,76.6211756,"Mariyapuram Mariyambika Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:54","0000-00-00 00:00:00",382
+ChIJpyoP3hkGBjsRauUiPSmeJwA,9.013681099999998,76.6300571,"Kunnuvallil Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:55","0000-00-00 00:00:00",383
+ChIJM8Gxhj8GBjsRSd7EuhWfqiY,9.0069235,76.6184767,"Kottanampuram Sree Madankavu Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:55","0000-00-00 00:00:00",385
+ChIJ2atdeeIFBjsRJENh2tRnKj8,9.031739800000002,76.6264552,"Sree Mahadeva Temple, vilanthara",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:54:56","0000-00-00 00:00:00",387
+ChIJYYMiteAFBjsRxjwFDAyZhM0,9.036212899999999,76.6194654,"St.Sebastian Church, Rajagiri",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:54:56","0000-00-00 00:00:00",391
+ChIJ27eyXB0GBjsRwNHyAZOk6ng,9.01981,76.6405516,"Thiruvatta Mahadevar Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:09","0000-00-00 00:00:00",432
+ChIJZ2nyHx0GBjsRLg7hrEw5kKE,9.019405099999998,76.6384581,"Thiruvatta Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:09","0000-00-00 00:00:00",433
+ChIJgeAc-qcIBjsRG9K3h6EiKq0,9.0203594,76.64169249999999,"Avanipuram Sreekrishna Swami Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:09","0000-00-00 00:00:00",434
+ChIJd29l_xwGBjsRhzYhgIAczZc,9.0181208,76.6381499,"PUNTHALA SRI ANNAPOORNRWEARY SRI NAGARAJA TEMPLE",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:10","0000-00-00 00:00:00",435
+ChIJt9J2BQMGBjsRP5UTvv4ri1s,9.0229389,76.63772019999999,"THARAYIL KALARI",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:10","0000-00-00 00:00:00",436
+ChIJ7W59ZwIGBjsRWZNL4I9FKbw,9.024015,76.6398311,"Immanuel Marthoma Church (Vayalil Pally)",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:10","0000-00-00 00:00:00",437
+ChIJzQT7hagIBjsReSt0_5uBUx8,9.0216579,76.6445521,"Sree Mahavishnu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:11","0000-00-00 00:00:00",438
+ChIJkbKLWKYIBjsR7N8lpoaVXtk,9.018379399999999,76.6451067,"St Mary's Orthodox Cathedral",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:11","0000-00-00 00:00:00",439
+ChIJ1RL1J6EIBjsRIi2gLsv-hWI,9.0148503,76.6441648,"Elavoorkkavu Sree Kantakarna Swami Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:11","0000-00-00 00:00:00",440
+ChIJdWy-3KsIBjsRj4mncsIthJY,9.027042999999999,76.645314,"Uparikunnu Mahavishnu temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:12","0000-00-00 00:00:00",441
+ChIJRWz5jaUIBjsRQpHDHKXS7jY,9.020419,76.6489421,"Marthandapuram Sree Krishna Swamy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:12","0000-00-00 00:00:00",442
+ChIJjXAAVaMIBjsRmGV5A3s84JY,9.0157527,76.652644,"St George Orthodox Valiyapally Church East Kallada",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:13","0000-00-00 00:00:00",445
+ChIJAQAAQCEGBjsRMaH0WdofP2k,9.0058872,76.63693920000001,"St. Alias Orthodox Church",2.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:13","0000-00-00 00:00:00",446
+ChIJBRReRbAIBjsREPj3K5_gisg,9.023405799999999,76.6549024,"Old Church (Palli Ayyam)",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:13","0000-00-00 00:00:00",447
+ChIJOTxUsCYGBjsREjBDQ32AxgM,9.003993300000001,76.6363817,"Koduvila AG Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:14","0000-00-00 00:00:00",450
+ChIJZayyV7oIBjsRD6zcvpA_AIQ,9.0223938,76.6574461,"Painagavelil sree krishna temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:14","0000-00-00 00:00:00",451
+ChIJ9-UxDLkIBjsRvvnfRyaqqpM,9.018415799999998,76.66035459999999,"Marangattu Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:26","0000-00-00 00:00:00",492
+ChIJbVvpvrcIBjsRbHD1DnXj9Ic,9.023269299999999,76.6626832,"Sharon Fellowship Church East Kallada",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:27","0000-00-00 00:00:00",494
+ChIJHY3HfccIBjsRPBSNahJD9ow,9.018629599999999,76.664502,"Kallada Nilamel Marthoma Church",4.8,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:27","0000-00-00 00:00:00",495
+ChIJsTOpyskIBjsRaiUMvopP_N4,9.0245263,76.6657948,"Cheekal Bharanikav Devi Temple",3.3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:27","0000-00-00 00:00:00",497
+ChIJcQ4MP8YIBjsRHQP_F-hKI1k,9.020648099999999,76.6684985,"Veranoor Temple",3.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:28","0000-00-00 00:00:00",499
+ChIJZd-gebQIBjsRZ58D0KCFovE,9.0290985,76.6590464,"Thevarunada(Sree Maha Vishnu Temple)",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:28","0000-00-00 00:00:00",500
+ChIJv6JXIcoIBjsRu1guxGjSoL0,9.027540799999999,76.66613819999999,"Kattuvilla Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:29","0000-00-00 00:00:00",501
+ChIJJbqhr5UIBjsRi4MueDaEmuQ,9.0082845,76.6608938,"St Mary's Orthodox Church,chittumala",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:29","0000-00-00 00:00:00",503
+ChIJa1ksrZUIBjsRs-kyB8bytKM,9.008138299999999,76.6609213,"St.Marys Orthodox Syrian Church",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:29","0000-00-00 00:00:00",504
+ChIJ0_xywMsIBjsRsbeE-uIx3ZY,9.02862,76.6686051,"Nedumankavu Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:30","0000-00-00 00:00:00",505
+ChIJcSDCkMUIBjsRm2w29I5BqjI,9.0210932,76.6722161,"St: Thomas Orthodox Church, Pallikavila, East Kallada",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:30","0000-00-00 00:00:00",506
+ChIJEQK0gMUIBjsR42uQUh9_-GY,9.021985899999999,76.67269619999999,"St.Mary's Malankara Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:30","0000-00-00 00:00:00",507
+ChIJeTMM00oPBjsR5O6oRFaiXDw,9.032597099999998,76.6619549,"Bhadhrabhuvaneshwari Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:31","0000-00-00 00:00:00",508
+ChIJ-UG85koPBjsRd9Gwu6GBwjE,9.034089399999997,76.6619197,"St. Marys Orthodox Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:31","0000-00-00 00:00:00",509
+ChIJq7eJlS8JBjsRHCBKTedbhjw,9.0242985,76.6973349,"Malanada Appooppan Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:43","0000-00-00 00:00:00",552
+ChIJVVVVVdkIBjsRD7FdqTFWxaI,9.016979599999999,76.68169619999999,"Prayam Marthoma Chappel",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:55:44","0000-00-00 00:00:00",553
+ChIJVVVVVdkIBjsRAmjgJEmcLVI,9.016979599999999,76.68169619999999,"Christian Good News Church",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:55:44","0000-00-00 00:00:00",554
+ChIJB3rRMNkIBjsR6ao9-YeApws,9.0175832,76.68352589999999,"Parappallikkonam Bhadrakali Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:44","0000-00-00 00:00:00",555
+ChIJid5eyt4IBjsRLzpPROJHZQw,9.016855999999999,76.6832476,"St George Orthodox Church, Kaithacode",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:45","0000-00-00 00:00:00",556
+ChIJtTzGLNwIBjsRcbM8-1_itzE,9.0143069,76.6812293,"Sharon fellowship church kaithacode",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:45","0000-00-00 00:00:00",557
+ChIJzxQOGtgIBjsR60l4KXTXuxc,9.021917,76.68645049999999,"Kaithacode Marthoma Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:45","0000-00-00 00:00:00",558
+ChIJm1TRAM4IBjsRnNitQsByNWk,9.027410999999999,76.67558489999999,"Uppoodu Subrahmanya Swami Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:46","0000-00-00 00:00:00",561
+ChIJj_p-LygJBjsRsI97tQcIjRs,9.024650099999999,76.6879975,"Bhajanamadam Sree Krishna Swami Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:46","0000-00-00 00:00:00",562
+ChIJvb9CQigJBjsRgwFwAJU1g2A,9.025167999999999,76.68801429999999,"Bhajanamadam Sree Krishna Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:47","0000-00-00 00:00:00",563
+ChIJNwBukiAJBjsRjOCmPIvbHrA,9.0154213,76.688688,"St. Thomas Evangelical Church Of India",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:47","0000-00-00 00:00:00",564
+ChIJnRpFwSAJBjsRm8gBd-88ZuM,9.0161924,76.6892213,"St.George Malankara Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:55:47","0000-00-00 00:00:00",565
+ChIJ49LNSNQIBjsRgaGQaQg46gg,9.0295355,76.6839859,"Korayikkod Sree Mahavishnu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:48","0000-00-00 00:00:00",566
+ChIJmdCYgdMIBjsRPekIl-dlSoM,9.030327999999999,76.681416,"Kalayadi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:48","0000-00-00 00:00:00",567
+ChIJtY33fNIIBjsR7djMP9whFaI,9.0300786,76.67647,"Mankatt Sarppakaavu",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:48","0000-00-00 00:00:00",568
+ChIJVUwE79IIBjsRgOBVbcvR80o,9.031218,76.67793999999999,"Karalil Durga Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:49","0000-00-00 00:00:00",570
+ChIJa2VC9ygJBjsRogDDvI-pW58,9.0246789,76.6906308,"Allashery Devi Temple Pavithreswaram",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:55:49","0000-00-00 00:00:00",571
+ChIJXWOu_joJBjsRxwirlFQE3XE,9.0207219,76.70157809999999,"PAVITHRESWARAM SREE MAHA DEVA TEMPLE",5,"place_of_worship point_of_interest establishment","2017-07-27 10:56:01","0000-00-00 00:00:00",613
+ChIJD9-JlS8JBjsRgG3obA6sO9o,9.0243038,76.6973323,"Maladeva Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:02","0000-00-00 00:00:00",614
+ChIJA5zzrTAJBjsRDq_PJMwhUSM,9.0229144,76.7050517,"Vilayil Nedumpuram Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:02","0000-00-00 00:00:00",615
+ChIJyUYt7iIJBjsRajggRiLyx-Y,9.013987700000001,76.69689269999999,"UDAYANKAVE Shiva Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:02","0000-00-00 00:00:00",616
+ChIJAQAAQCIJBjsRZDTw1o9F0YA,9.013404500000002,76.69468719999999,"Udayankavu Siva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:03","0000-00-00 00:00:00",617
+ChIJAQAAQCIJBjsRicasLND_i0E,9.013404500000002,76.69468719999999,"Sree Yogeswara Kali Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:03","0000-00-00 00:00:00",618
+ChIJqUpBqz8JBjsRi_SNquhPjoA,9.0149633,76.7077446,"Pulamankavu Sreemahadevar Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:03","0000-00-00 00:00:00",619
+ChIJL4_l5jMJBjsRFuzrFhxH-bQ,9.029034900000001,76.70357109999999,"St. Thevodhorose Orthodox Syrian Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:56:04","0000-00-00 00:00:00",620
+ChIJ3U1hxzMJBjsRE8JxWE5VNnM,9.0298554,76.702796,"Madavashari Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:56:04","0000-00-00 00:00:00",621
+ChIJPS0eAzMJBjsRe7vrheONGVw,9.0316902,76.7021668,"AG Church Puthoor",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:56:05","0000-00-00 00:00:00",624
+ChIJJxMPUzQJBjsRhEUnrYEi6yA,9.030971599999999,76.7075267,"choondalil sree bhadra bhagavathy temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:05","0000-00-00 00:00:00",628
+ChIJ-WlV3UYJBjsRv_Nc1GLDU8A,9.0195145,76.7141654,"Thamaramchira Sree Krishna Swamy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:06","0000-00-00 00:00:00",630
+ChIJwfMS3BQJBjsRXMjYk4KBLJc,9.0094796,76.709429,"Kadalayi Madom Devi Kshetram",2.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:06","0000-00-00 00:00:00",631
+ChIJAQAAQFAJBjsRoMGoSm2n1hw,9.0221802,76.7154832,"St George Orthodox Church, Thevalapuram",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:56:18","0000-00-00 00:00:00",672
+ChIJaW4jbUYJBjsRsh4WnjXq3p4,9.022200099999997,76.715471,"St George Orthodox Church, Thevalapuram",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:56:18","0000-00-00 00:00:00",673
+ChIJswd-x08JBjsRad6a_NlZXtA,9.0256442,76.72066749999999,"St. George Orthodox Church",3,"church place_of_worship point_of_interest establishment","2017-07-27 10:56:19","0000-00-00 00:00:00",674
+ChIJFU9ePl0JBjsRI3d2pnySJOs,9.0146997,76.7233846,"Indilayappan Swami Temple Pullamala",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:19","0000-00-00 00:00:00",676
+ChIJAQAAQFAJBjsRvUvN6Z313tc,9.0252637,76.7235513,"thevalappuram temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:19","0000-00-00 00:00:00",677
+ChIJVx6n2k4JBjsRA58PTWhH5Z8,9.026995200000002,76.717068,"Shastham Kavu",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:20","0000-00-00 00:00:00",678
+ChIJVcqInV4JBjsRpiQpoKf7Z2Y,9.016861,76.7279021,"IPC Pullamala Church, Kundara Centre",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:56:20","0000-00-00 00:00:00",679
+ChIJa-QlYEkJBjsRa34bqcZpI1I,9.0289713,76.71476129999999,"Arutrikovil Shivakhetram",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:20","0000-00-00 00:00:00",680
+ChIJZT-521gJBjsRgrndQnyd6Lg,9.019694499999998,76.731234,"Guru Mandiram Alinkunnupuram",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:21","0000-00-00 00:00:00",681
+ChIJIcW_pVgJBjsRRgKWwzx-zks,9.019824,76.7313408,Gurumandiram,-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:21","0000-00-00 00:00:00",682
+ChIJCyYW6lMJBjsRlrC-uwbwBWw,9.0304931,76.7265261,"കോലോലിപൊയ്ക ശ്രീ ദുർഗ ദേവി ക്ഷേത്രം",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:21","0000-00-00 00:00:00",683
+ChIJ4X7hgmAJBjsRQY1Wf5Pqxvs,9.013082200000001,76.7315914,"Oolikkal Bhagavathi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:21","0000-00-00 00:00:00",685
+ChIJyyhVfeALBjsRfoWrkfaVlsA,9.0142556,76.7365281,"Sree Bhoothanatha Temple Anakottor",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:22","0000-00-00 00:00:00",689
+ChIJbfPeOf0LBjsRm-Qel1SiaME,9.02757,76.73598559999999,"Sree Bhoothanadhaswami Temple kottathala",4.2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:23","0000-00-00 00:00:00",690
+ChIJ48LqY1oJBjsRV_2TJn7E0X4,9.023090999999997,76.72531,"Ardhanarishvara Temple",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 10:56:23","0000-00-00 00:00:00",691
+ChIJ04vlFO4LBjsRsRSD927KmnA,9.023652099999998,76.7498124,"Sree Krishna Swami Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:35","0000-00-00 00:00:00",732
+ChIJFTaVDuQLBjsRrwml7eD6fHg,9.0200372,76.7398805,"Poozhikadu sri bhadra bagavathi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:35","0000-00-00 00:00:00",733
+ChIJQ-DpDuQLBjsR2K84LFIz-wM,9.0200094,76.73987509999999,"Poozhikadu Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:35","0000-00-00 00:00:00",734
+ChIJ6YNOCeULBjsRK4g9XGLXsLg,9.022249799999999,76.74333349999999,"Mullikala Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:36","0000-00-00 00:00:00",735
+ChIJR1botPoLBjsRVIuzjS12HJw,9.024754,76.74398699999999,"sree bhoothanatha temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:36","0000-00-00 00:00:00",736
+ChIJX1EBF-8LBjsRKd5keqXw1RM,9.0209978,76.74712749999999,"Kezhuttupadikkal Mangattu Kavu Devi temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:36","0000-00-00 00:00:00",738
+ChIJXeFeutwLBjsRTpwn5iv38no,9.009322299999997,76.74436779999999,"Ayiravilly Mahadeva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:37","0000-00-00 00:00:00",743
+ChIJR4DfkdALBjsRLxavFw5uxIc,9.0081402,76.74004680000002,"Madan Nada Sree Mahadeva Temple, Anakottoor",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:37","0000-00-00 00:00:00",744
+ChIJq6qq6u0LBjsRRlh0wVT_lr8,9.0253537,76.7510569,"Thanneerpanthal Devi temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:38","0000-00-00 00:00:00",745
+ChIJ5dwadOwLBjsRaUGxiOYMfg4,9.0198667,76.7527333,"Panayil Devi Temple",4.9,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:38","0000-00-00 00:00:00",747
+ChIJk1lfU_4LBjsRiWwuXZaoVdc,9.032445,76.736186,"Hamunan Temple Vendar",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:38","0000-00-00 00:00:00",748
+ChIJ-41KQtkLBjsRMpjixL3xIPs,9.007060999999998,76.7384361,"767 No. SNDP Shaga Anakottoor",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:39","0000-00-00 00:00:00",749
+ChIJ0dQuxvkLBjsRYL5nyTUn_F8,9.032566899999999,76.7435963,"Sree Chaver Mahadeva Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:39","0000-00-00 00:00:00",750
+ChIJFXIEZ9kLBjsRoPP4HiV2vhg,9.006814599999998,76.73887700000002,"Kaithottu Sree Durga Temple Anakottoor",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:39","0000-00-00 00:00:00",751
+ChIJjRsPp5cLBjsRm0hQzCG3jIE,9.0171587,76.7652049,"Santhigiri Ashram, Kottarakkara Branch",4.5,"place_of_worship point_of_interest establishment","2017-07-27 10:56:52","0000-00-00 00:00:00",792
+ChIJ1WSlkpILBjsRXQr8JY95nkA,9.0238955,76.7588641,"KALLUVILA Family Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:52","0000-00-00 00:00:00",794
+ChIJC7m0a5ILBjsRH13RYoVbCsc,9.0240221,76.76083,"Chennalur Family Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:52","0000-00-00 00:00:00",795
+ChIJ32kD9pELBjsRChzvm1D9cu8,9.0243594,76.762526,"Thevalakkara Family Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:53","0000-00-00 00:00:00",796
+ChIJda_fCu0LBjsRYqzDy4FJQhQ,9.023598999999999,76.75402299999999,"Tharamel Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:53","0000-00-00 00:00:00",797
+ChIJhVYNCpoLBjsRxYoyLnZweMc,9.021117,76.7682123,"Pallickal Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:53","0000-00-00 00:00:00",799
+ChIJHYsna8ALBjsRByjzvcl41Rw,9.012874799999999,76.75547519999999,"kodungallur devi temple",1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:54","0000-00-00 00:00:00",800
+ChIJR9u6xcELBjsRkcA21Lp_97A,9.013293299999997,76.75300349999999,"Vallam Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:54","0000-00-00 00:00:00",801
+ChIJu8oF2b4LBjsRfLf7WUCXZPo,9.009900199999999,76.75983649999999,"Vallam Maha Vishnu temple",1.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:54","0000-00-00 00:00:00",802
+ChIJkcygarwLBjsRVU0diVc09Pk,9.010525800000002,76.764018,"Mavan Kavu Temple Avanoor",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:55","0000-00-00 00:00:00",803
+ChIJMRztGrwLBjsREx-_0vkZs7o,9.0099419,76.76313119999999,"Tharamel Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:55","0000-00-00 00:00:00",805
+ChIJyVASC48LBjsRvjGA5-jodHo,9.0284309,76.7667086,"Plamoodu Muslim Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:56:55","0000-00-00 00:00:00",806
+ChIJ_Z_ezZsLBjsR_rtEGU3uB0s,9.0210349,76.77150069999999,"Shiva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:56","0000-00-00 00:00:00",807
+ChIJgVeIIZkLBjsRHjmIiZhhRN4,9.017533100000001,76.77247969999999,"Guru Mandiram Pallickal",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:56:56","0000-00-00 00:00:00",808
+ChIJk61ld7sLBjsRbZ618vYuOzo,9.008532899999999,76.76563170000001,"Mavan Kavu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:56:56","0000-00-00 00:00:00",809
+ChIJo00GdbkLBjsRtyuLRjfYq-Q,9.006513900000002,76.7612329,"Vallam Mosque",1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:56:57","0000-00-00 00:00:00",811
+ChIJLTXW4ggLBjsROW8w3hza7GM,9.006956799999998,76.78352699999999,"Sharon Fellowship Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:09","0000-00-00 00:00:00",852
+ChIJK1LVxKULBjsRmG41sqgg_KM,9.0059734,76.77332489999999,"Marthoma Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:09","0000-00-00 00:00:00",854
+ChIJ9e0wa6YLBjsRvIRbWNPcbl8,9.0051933,76.77477830000001,"The Salvation Army",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:09","0000-00-00 00:00:00",855
+ChIJJwUUJgYLBjsRCTfhnPnu3RQ,9.004202199999998,76.7833678,"Jesus Is Alive Global Worship Centre",4.6,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:10","0000-00-00 00:00:00",856
+ChIJTWceywcLBjsRQM4KXeJT6JM,9.0032826,76.78259469999999,"Church Of God In India(Full Gospel)",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:10","0000-00-00 00:00:00",857
+ChIJDf5SxMELBjsRi1xYbRHO7FM,9.004355200000001,76.7728549,"Vallam Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:57:10","0000-00-00 00:00:00",858
+ChIJyS8ch3QLBjsRZgpuaZiFsf0,9.017896799999999,76.78511089999999,"Pulamon Bharanickaavu Sree Uma Maheshrwara Devi Temple",5,"place_of_worship point_of_interest establishment","2017-07-27 10:57:11","0000-00-00 00:00:00",859
+ChIJ2Xjv5KELBjsRaHBQRciEOZI,9.0145172,76.774892,"Salvation Army Church, Pallickal, Kottarakara,",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:11","0000-00-00 00:00:00",860
+ChIJbxep3HkLBjsRoMxJX3dkkxg,9.026756899999999,76.7837997,"Divine Mercy Church Malankara Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:11","0000-00-00 00:00:00",861
+ChIJmVBjnwwLBjsRqyktF7Cf1S0,9.0140069,76.7858147,"St. Thomas Syro Malabar syrian Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:12","0000-00-00 00:00:00",863
+ChIJ_fWXuHkLBjsRCNJg45IHFlw,9.0274995,76.78368929999999,"St Steephen Orthdox Church,Mylom",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:12","0000-00-00 00:00:00",864
+ChIJt-w_v3kLBjsR3EQ5mV8uXQo,9.027551800000001,76.7838684,"St George's Shrine",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:57:13","0000-00-00 00:00:00",866
+ChIJv9uWfQsLBjsRZnMGmsFXj8Q,9.013116799999999,76.78551519999999,Kurishadi,3,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:13","0000-00-00 00:00:00",867
+ChIJ9bVt7QkLBjsRKnUSMz7ugzo,9.009076,76.78128439999999,"EBENEZER WORSHIP CENTRE, KOTTARAKKARA, KOLLAM",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:13","0000-00-00 00:00:00",868
+ChIJVVVVVAkLBjsRxB9E56-A3l8,9.0097906,76.78540629999999,"TPM KTR",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:14","0000-00-00 00:00:00",869
+ChIJ_____3oLBjsRBD_ZsY8W3h4,9.0289821,76.7884713,"st.marys malankara chatholic church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:14","0000-00-00 00:00:00",871
+ChIJ2UBPERgLBjsR6HYd7U4T_ik,9.004227,76.8019019,"Syro-Malankara Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:26","0000-00-00 00:00:00",912
+ChIJwzbmi0ELBjsRr8TJ2UywaZ8,9.021169,76.8046509,"The Pentecostal Mission",3.3,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:27","0000-00-00 00:00:00",913
+ChIJixg32kMLBjsR8_RiOmmyPXU,9.021943499999999,76.80664300000001,"Alakuzhy Palli",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:27","0000-00-00 00:00:00",914
+ChIJCxf-5WcLBjsRUiAK6jYuo3k,9.027424300000002,76.80181499999999,"St Mary's Chapel",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:27","0000-00-00 00:00:00",915
+ChIJvXvEwkILBjsRhtuT2QjwtMw,9.0276917,76.80508309999999,"Kulamudy Orthodox Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:28","0000-00-00 00:00:00",916
+ChIJ4cpiZEQLBjsRufa8GOD9xB8,9.023964699999999,76.8095693,"Kaduvancodu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:57:28","0000-00-00 00:00:00",917
+ChIJG_PDoxELBjsRQhrJPMmvVX8,9.008640799999998,76.7933476,"St.George Orthodox Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:28","0000-00-00 00:00:00",918
+ChIJhxDPgjsLBjsRFU7uLP1lVZI,9.008239500000002,76.80934599999999,"El Shaddai Revival Ministries",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:29","0000-00-00 00:00:00",921
+ChIJBWaw_hkLBjsRCe41qF7c40c,9.0047165,76.7974806,"CSI Church Kottarakkara",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:29","0000-00-00 00:00:00",923
+ChIJ06Ufz18LBjsR1otAKVpQOBw,9.0354626,76.803877,"St Mary'S Malankara Catholic Church Mylom East Kura",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:30","0000-00-00 00:00:00",925
+ChIJL6_vuHwLBjsRamnHxgDooo4,9.0329871,76.7903996,"Mylom Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:57:30","0000-00-00 00:00:00",926
+ChIJ1yxG3A8LBjsRTy_7amWCm7k,9.0063199,76.7908937,"Kottapuram Jum'a Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:57:30","0000-00-00 00:00:00",927
+ChIJR1kcYSMLBjsRPjNMVDI5l3Y,9.005039699999998,76.80870829999999,"Pattamala Marthoma Church",4.8,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:31","0000-00-00 00:00:00",928
+ChIJb4nMBU0LBjsRy0j3rr12ZFg,9.0254428,76.8235321,"St.John's Orthodox Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:43","0000-00-00 00:00:00",972
+ChIJge-xIc90BjsRTyfqcxNimrg,9.0105241,76.83482230000001,"CHURCH OF GOD",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:43","0000-00-00 00:00:00",973
+ChIJl8Wm3E0LBjsRUQtWkJl7fAQ,9.025781900000002,76.82085409999999,"vadacode St.Johns Malankara Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:44","0000-00-00 00:00:00",974
+ChIJ1yyeskwLBjsRzQebDzKxG1g,9.022911600000002,76.8258637,"St.Mary's Orthodox Church, Aringada",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:44","0000-00-00 00:00:00",975
+ChIJbRAN9DYLBjsRbwXXPzziA6k,9.013557599999999,76.8184773,"Bethlehem ashram",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:44","0000-00-00 00:00:00",976
+ChIJSSvbUFALBjsRk_FFxzewgyA,9.028350099999999,76.81716329999999,"St John's Malankara Syrian Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:45","0000-00-00 00:00:00",977
+ChIJhRxk1DYLBjsRPLip7Q2fz7s,9.0113208,76.8176079,"Brethren Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:45","0000-00-00 00:00:00",978
+ChIJeQEbyzALBjsR4JQq7A6GBjE,9.0109552,76.8160851,"The Pentecostal Mission",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:45","0000-00-00 00:00:00",979
+ChIJrb26A8t0BjsRkhIL-rQPNBg,9.013942000000002,76.82834600000001,"Assembly of God Church, Chengamanadu",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:46","0000-00-00 00:00:00",980
+ChIJv0Eoj8x0BjsRAsTa3LdgV4s,9.0107565,76.8282804,"St Mary's Orthodox Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:46","0000-00-00 00:00:00",982
+ChIJ81HMzs10BjsR9AXEpny1nNI,9.008446499999998,76.8306649,"Villoor Salem Marthoma Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:57:47","0000-00-00 00:00:00",985
+ChIJiWDGdFcLBjsROycDln-zSss,9.035143399999999,76.8158162,"Kura Thrikkara Sreekrishna Swamy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:57:47","0000-00-00 00:00:00",986
+ChIJvRWcY810BjsR2HCEi_SbHJA,9.006377100000002,76.8279305,"attankara mosque",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:57:47","0000-00-00 00:00:00",987
+ChIJacUndVcLBjsRIhBKiLEZog8,9.0352198,76.8158235,"Kura Srikrishna Swamy Temple",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:57:48","0000-00-00 00:00:00",988
+ChIJC9jC9kcLBjsRvCeetiHSVtc,9.016633100000002,76.8134384,"Mar Baselios Mar Gregorios Orthodox Church",-1,"church premise place_of_worship point_of_interest establishment","2017-07-27 10:57:48","0000-00-00 00:00:00",991
+ChIJUdXRApZ0BjsRbBzSy8e60N0,9.0237223,76.8491681,"Aveneeswaram Mahadevar Temple",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:00","0000-00-00 00:00:00",1034
+ChIJA6zPuOl0BjsRriWSW5oUIwA,9.0188547,76.8503556,"Sri Mahadeva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:01","0000-00-00 00:00:00",1035
+ChIJxabSEpV0BjsRpkkOA3lZNrE,9.0196203,76.8504784,"Avaneeswaram Sree Mahadevar",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:01","0000-00-00 00:00:00",1036
+ChIJsaJdJJZ0BjsRq4IG9AmB5EA,9.0248707,76.8495423,"CSI Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:01","0000-00-00 00:00:00",1037
+ChIJD3zMhfJ0BjsRIl4r0fY76Fo,9.017870599999998,76.8508897,"Samastha Nair Samajam, Karayogamandiram",5,"place_of_worship point_of_interest establishment","2017-07-27 10:58:01","0000-00-00 00:00:00",1038
+ChIJIec5M5V0BjsRQAjGl87yd7U,9.017707699999999,76.85100140000002,"Kadumangalam Mahadevar Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:02","0000-00-00 00:00:00",1039
+ChIJ57gp36J0BjsR9Dmz7SyGPLU,9.029421600000001,76.84632359999999,"Kunnicode Muslim Jama-at(KMJ)",4.6,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:58:02","0000-00-00 00:00:00",1040
+ChIJFUMzv810BjsRj81ofXO3pUY,9.009365,76.8347039,"St.George Malankara Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:02","0000-00-00 00:00:00",1041
+ChIJ8c_8AKN0BjsR3RHjOVTa6Bg,9.0309127,76.845927,"Kutti Thara Temple (Kavu )",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:03","0000-00-00 00:00:00",1042
+ChIJcW88uM90BjsRmHoaJYP_2Bs,9.0078213,76.8353963,"Villoor Vaikuntanatha Kshethram",3.7,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:03","0000-00-00 00:00:00",1043
+ChIJMUoevel0BjsR5-UTqiq2lhU,9.0108254,76.8510926,"Melila Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:04","0000-00-00 00:00:00",1046
+ChIJH7rVc6J0BjsRQl2_6ejS4ME,9.0321828,76.84850759999999,"Ambanattu Muhoorthi Kavu",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:04","0000-00-00 00:00:00",1048
+ChIJ3SQEHJl0BjsRKAx4A8su39k,9.0304388,76.8520367,"Kidangayil Devi Temple Knnicode",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:05","0000-00-00 00:00:00",1050
+ChIJ_wD_wqt0BjsRWD6t4kHZkHk,9.0347248,76.8308473,"Sri Durga Devi Temple,",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:05","0000-00-00 00:00:00",1051
+ChIJW6Pr5GN0BjsRQljZidoO-CM,9.024521,76.8770349,"St. Thomas Marthoma Church",3.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:17","0000-00-00 00:00:00",1092
+ChIJuXKwZfR0BjsRfm303dO-pl8,9.015079799999997,76.8672824,"Indian Pentecostal Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:17","0000-00-00 00:00:00",1093
+ChIJ1-VEoZB0BjsRMWne2LdHPg8,9.0284392,76.8559387,"Nagaraja Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:18","0000-00-00 00:00:00",1096
+ChIJRyM8EfV0BjsRQbdxYjpCtes,9.0166746,76.8701792,"Christ the King Church Kuttikonam",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:19","0000-00-00 00:00:00",1099
+ChIJw4a5n4V0BjsRF8PyjJPx8Lw,9.0302375,76.8635595,"Vilakudy Sree Dharmasastha Temple",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:19","0000-00-00 00:00:00",1100
+ChIJcTYgVF90BjsR89kxQ8iqIdc,9.013408799999999,76.8723509,"Makkannoor Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:58:20","0000-00-00 00:00:00",1105
+ChIJLwtp_WB0BjsRGH_8Kabb1Qk,9.0212697,76.87565239999999,"Brethren Church",3,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:20","0000-00-00 00:00:00",1106
+ChIJL8lokmB0BjsRdlXbc0_0KPA,9.019768599999999,76.8757689,"Chembumala Malankara Catholic Church, Kottavattom Jn.",3,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:20","0000-00-00 00:00:00",1107
+ChIJuQ6KbGF0BjsRYepL8-ZU8LI,9.022864000000002,76.8759882,"Noorul islam juma masjid kottavattom jn",4.5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:58:21","0000-00-00 00:00:00",1108
+ChIJMQzz2Vh0BjsRc1fc0MJcLwI,9.012438699999999,76.8746477,"Makkannoor Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:21","0000-00-00 00:00:00",1109
+ChIJf6S_Oft0BjsRTi6aKvAUgBQ,9.0034992,76.86138290000001,"Mar Aprem Orthodox Church",4.4,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:22","0000-00-00 00:00:00",1111
+ChIJa8v-6UN0BjsRI8-sxsugd8I,9.0150136,76.8883257,"Mar Gregorious Orthodox Church, Marangadu",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:34","0000-00-00 00:00:00",1152
+ChIJ____v2V0BjsRTAhxpOSK3Dw,9.025623,76.8821849,"The Pentecostal Mission Faith Home",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:35","0000-00-00 00:00:00",1157
+ChIJYy-RyGh0BjsRVy7oCYHDPok,9.0237634,76.8853122,ELICODE,-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:35","0000-00-00 00:00:00",1158
+ChIJdS3pYG90BjsRMaTh5SLwKlg,9.0257978,76.88387449999999,"Elampal Mahadevar Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:35","0000-00-00 00:00:00",1159
+ChIJ5evIg2N0BjsREn6tanHbXDo,9.0265978,76.8774265,"Church of God, Kottavattom Jn.",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:36","0000-00-00 00:00:00",1160
+ChIJ3dBQ-GR0BjsRmBAZk6TOmtE,9.0270902,76.8800369,"CSI Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:36","0000-00-00 00:00:00",1161
+ChIJiQOQ3Wl0BjsR21PHdSar4MM,9.0195355,76.8879032,"Kottaram Ayiravilli Kiradamurthi Siva-Parvadi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:36","0000-00-00 00:00:00",1162
+ChIJf9MYc2N0BjsRQ0uSJSYJ5Dw,9.0272548,76.87651989999999,"St. Mary's Orthodox Church, Elampal",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:37","0000-00-00 00:00:00",1163
+ChIJUT54DWN0BjsRhEtGkcp3UTc,9.027397800000001,76.876246,"St George Orthodox Church, Elampal",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:37","0000-00-00 00:00:00",1164
+ChIJeYHvgmR0BjsRcrFZuNE-M1M,9.0279607,76.8773336,"The Pentecostal Mission Church, Elampal",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:37","0000-00-00 00:00:00",1165
+ChIJizqHaWN0BjsR8HO-qksFDSU,9.0282985,76.8761907,"Latin Catholic Church, Elampal",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:38","0000-00-00 00:00:00",1166
+ChIJsxkWl0F0BjsRhz82PYIOci4,9.017252000000001,76.890564,"St Thomas Malankara Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:38","0000-00-00 00:00:00",1170
+ChIJhW1C92t0BjsRaANO_3J4PUk,9.0243482,76.8901563,"Christian Brethren Church Elampal",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:39","0000-00-00 00:00:00",1171
+ChIJcyxq3hd0BjsRYtELF8j34Eg,9.0199714,76.9052195,"Church of God",3,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:51","0000-00-00 00:00:00",1213
+ChIJTRdTtxV0BjsREOYl15vVkjU,9.021544199999997,76.8990783,"St. George Orthodox Church, Jayabharatham, Punalur",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:51","0000-00-00 00:00:00",1214
+ChIJb7wvsRV0BjsRp70HTdxjet8,9.0217068,76.8990797,"St Peter's Jacobite Syrian Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:51","0000-00-00 00:00:00",1215
+ChIJh2b7dRV0BjsRgrNOpuS_mJg,9.020473299999999,76.897999,"Bishop's House Punalur",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:58:52","0000-00-00 00:00:00",1216
+ChIJYTSFj2t0BjsR1Qhj7--8tnM,9.024065400000001,76.8915081,"Jerusalem Mar Thoma Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:52","0000-00-00 00:00:00",1217
+ChIJZwU3_BF0BjsRHWHTRSrqJ5o,9.030166,76.90135579999999,"St Jude Shrine Kanjiramala",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:58:52","0000-00-00 00:00:00",1219
+ChIJaRMbc210BjsRx-53uhmKQD8,9.0289184,76.8926668,"Arampunna Temple",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:53","0000-00-00 00:00:00",1221
+ChIJgUoD5A90BjsReVuuvYlqrO8,9.030902400000002,76.90561919999999,"St George Orthodox Syrian Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:53","0000-00-00 00:00:00",1223
+ChIJ15w1-SF0BjsR-bak5q3w7xo,9.0195851,76.9126716,"Saint John Orthodox Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:54","0000-00-00 00:00:00",1224
+ChIJq6qq6iF0BjsRjJzW0etoS_c,9.0186576,76.91388730000001,"Town AG Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:54","0000-00-00 00:00:00",1225
+ChIJyRTFQyF0BjsR1G5KJzGwcUQ,9.0157259,76.913392,"Sree Subramanya Swami Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:58:54","0000-00-00 00:00:00",1226
+ChIJMcLYwyF0BjsREIPgV8DCDvo,9.018964499999997,76.9142025,"Chemanthoor Brethren Assembly",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:54","0000-00-00 00:00:00",1227
+ChIJORL3bR90BjsRdqrfFZ2IZYI,9.021096499999999,76.9145932,"The Penthecostal Mission, Punalur",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:55","0000-00-00 00:00:00",1228
+ChIJY_hneRx0BjsR0JOKM6amGlk,9.0278309,76.9129516,"Carmel Mar Thoma Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:58:55","0000-00-00 00:00:00",1230
+ChIJ_QwkVaB2BjsRH_1vJT_XKT4,9.022836300000002,76.9208661,"Saint Marys Cathedral Church",4.1,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:07","0000-00-00 00:00:00",1272
+ChIJIWHaepl2BjsR90tfkG144bY,9.017612999999999,76.92945569999999,"Church of God In India(Full Gospel)",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:08","0000-00-00 00:00:00",1273
+ChIJ0X4eZZl2BjsRM4S3pvlJ77I,9.015591299999999,76.9260887,"Christ's Ambassadors Head Office",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:08","0000-00-00 00:00:00",1274
+ChIJa7kjQKR2BjsRt-2dILoWQ6g,9.027282,76.9256273,"Sacred Heart Church",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:09","0000-00-00 00:00:00",1275
+ChIJL5jBNh10BjsRpvYIhQSVTAA,9.030475899999999,76.9164902,"Salvation Army Church",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:09","0000-00-00 00:00:00",1276
+ChIJffFCWIV2BjsRy3C501BCRkU,9.0090485,76.9296904,"Punalur St. Thomas Marthoma Church, Tholicode",3.7,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:09","0000-00-00 00:00:00",1277
+ChIJwS7liZ92BjsR1JIKiBmQRiA,9.0201887,76.92005569999999,"C S I Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:10","0000-00-00 00:00:00",1279
+ChIJH7ZWNZ52BjsRaew7LqxIVZU,9.0174865,76.9196297,"Author And Finisher Worship Center",5,"place_of_worship point_of_interest establishment","2017-07-27 10:59:10","0000-00-00 00:00:00",1280
+ChIJq6pay592BjsR0_8FadzDj0Y,9.0175445,76.9193353,"Auther and Finisher Prayer Tower",5,"place_of_worship point_of_interest establishment","2017-07-27 10:59:11","0000-00-00 00:00:00",1281
+ChIJowTWW6B2BjsRvMWNjmC39gg,9.0225985,76.92016579999999,"Shrine of St. Antony",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:59:11","0000-00-00 00:00:00",1282
+ChIJl_ZaMJ92BjsR4mew8YLxeZM,9.018459700000001,76.9233801,"Pentecostal Church of God, HQ",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:11","0000-00-00 00:00:00",1283
+ChIJiX7k5qB2BjsRakc21kRJkgs,9.024113999999999,76.920608,"Kingdom Hall of Jehovah's Witnesses",4,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:12","0000-00-00 00:00:00",1284
+ChIJvxQ4ZqF2BjsR8qz6Yk1aZhc,9.0241502,76.9233424,"Bharanikkavu Devi Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:12","0000-00-00 00:00:00",1285
+ChIJtzfY8Zh2BjsRyPkCdGgeQnU,9.0186388,76.9261428,"Penthacost Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:13","0000-00-00 00:00:00",1289
+ChIJDfNNeqJ2BjsRloCZLgs7dLI,9.0209183,76.9262964,"Moorthikavu temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:13","0000-00-00 00:00:00",1290
+ChIJnb9Sceh2BjsRgnzSbDH2RCw,9.019667199999999,76.9524185,"SALEM MARTHOMA CHURCH",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:25","0000-00-00 00:00:00",1333
+ChIJ1S0mksl2BjsRgldGXqkSewI,9.0364899,76.9430193,"Mar Thoma Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:26","0000-00-00 00:00:00",1337
+ChIJN_3fHZV2BjsRaBxtl0jhriw,9.018310200000002,76.9394567,"St.marys knanaya syrian church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:27","0000-00-00 00:00:00",1338
+ChIJq-I0pux2BjsRHlNyX5zEWo8,9.0154391,76.942059,"Valacodu Nusratul Islam Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:59:27","0000-00-00 00:00:00",1339
+ChIJq-I0pux2BjsRc65Rw0NEB0Y,9.0154391,76.942059,"Valacodu Muslim Jama ath",4.7,"place_of_worship point_of_interest establishment","2017-07-27 10:59:28","0000-00-00 00:00:00",1340
+ChIJ5W1iDJR2BjsRV8KQtBHirDs,9.015285099999998,76.93743189999999,"Nim Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:59:28","0000-00-00 00:00:00",1341
+ChIJ2aJl7MB2BjsRk102T2Rzz7A,9.024714399999999,76.9429193,"Vilakkuvattom AG Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:28","0000-00-00 00:00:00",1342
+ChIJ50A7CZR2BjsRUiKVQnsk9O0,9.015693699999998,76.9364478,"St George Orthodox Church",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:29","0000-00-00 00:00:00",1343
+ChIJe6WTdOx2BjsR2IRfVuSvx08,9.015471900000001,76.9454607,"Guru Shethram (Sree Narayana Guru Mandir)",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:29","0000-00-00 00:00:00",1344
+ChIJ18zn-et2BjsRkwufmxL5YNE,9.016023299999999,76.94632899999999,"Muhurthy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:29","0000-00-00 00:00:00",1345
+ChIJN2vyYel2BjsRJmLDWvdvrm0,9.017448100000001,76.94709519999999,"Adivayalil Muhoorthi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:30","0000-00-00 00:00:00",1346
+ChIJHcvKRJJ2BjsR9T17hJzAlWI,9.0118464,76.9376362,"Vazhamon Sree Mahadevar Temple",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:30","0000-00-00 00:00:00",1347
+ChIJ91J4drx2BjsRkGPcxa6sJFA,9.025992199999997,76.9336865,"Kallar Subrahmanya Swami Kshetram",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:30","0000-00-00 00:00:00",1348
+ChIJ_2AFFZd2BjsREj72KyMfnXM,9.016708,76.9313111,"Saint Josephs Malankara Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:31","0000-00-00 00:00:00",1349
+ChIJUeVpt5F2BjsR2zy1Dye4LeU,9.011497199999999,76.93327239999999,"Poongodu Sree Mahadeva Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:31","0000-00-00 00:00:00",1350
+ChIJ3TtGz5F2BjsR9MjV0XLGdQ8,9.010862000000001,76.933262,"Siva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:31","0000-00-00 00:00:00",1351
+ChIJJwADfeh2BjsRffBmUnIGMEA,9.0191912,76.9522434,"Marthoma Dayara",4.8,"place_of_worship point_of_interest establishment","2017-07-27 10:59:38","0000-00-00 00:00:00",1393
+ChIJAZRR8uR2BjsRac5kgqCOFNc,9.0129129,76.95688659999999,"St.Thomas Evangelical Church Of India ,plachery Parish",1,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:38","0000-00-00 00:00:00",1394
+ChIJP9Zuq-h2BjsRimktY7gFCJk,9.0160971,76.9524801,"Durga Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:38","0000-00-00 00:00:00",1395
+ChIJoyd5Zx93BjsRzo2OYdCpHKg,9.0214783,76.96860079999999,"Bethel Marthoma Church Puthucadu",-1,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:39","0000-00-00 00:00:00",1396
+ChIJe3p7Htl2BjsRG-L3m9tltzY,9.0287743,76.9612707,"Church of God (Full Gospel), Chaliyakkara",3,"church place_of_worship point_of_interest establishment","2017-07-27 10:59:39","0000-00-00 00:00:00",1397
+ChIJNwkXq-R2BjsRRPpsxM9GF3I,9.010889299999999,76.95831249999999,"Edavayalill Moorthi Kavu,Plachery",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:39","0000-00-00 00:00:00",1398
+ChIJvw4maBh3BjsRkKSmcMyXe0c,9.0208283,76.9737983,"Cheruthannor Sree Dharmasasttha Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:40","0000-00-00 00:00:00",1400
+ChIJKZudAf92BjsREw-4NlyVGkQ,9.0026193,76.9611238,Pappannoor,5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:40","0000-00-00 00:00:00",1403
+ChIJ_4ZxOQ53BjsREQF89fTyTpE,9.010148199999998,76.9790001,"Ayiravalli Shiva Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:41","0000-00-00 00:00:00",1406
+ChIJ8ylpSg53BjsR9KMcOAC5dU0,9.0101154,76.97894409999999,"Edamon Ayiravally Temple",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:42","0000-00-00 00:00:00",1407
+ChIJaZU_NX93BjsRIXV7JJal3K8,9.003081,77.00471,"Sree Narayana Guru Mandiram Anapettakongal",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:42","0000-00-00 00:00:00",1409
+ChIJO4hmSn93BjsRIghpvuBjOjo,9.003114,77.00462999999999,Anapettakongal,4.7,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:43","0000-00-00 00:00:00",1410
+ChIJPRogbNx5BjsRwjGiFAwpdEY,9.0192981,77.017927,"Mampazhathara Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:43","0000-00-00 00:00:00",1411
+ChIJ9VK7Cid-BjsRuACatBXTZ84,9.021876599999999,77.1930223,"அருள்மிகு கருப்பசாமி கோவில் வீர தேவேந்திர குலம்",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:46","0000-00-00 00:00:00",1413
+ChIJayiAkNR_BjsRO5ZmxhaRC9c,9.006332499999997,77.1894938,"ஓம் சக்தி மன்றம்",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:46","0000-00-00 00:00:00",1414
+ChIJpbQLkNR_BjsRYnSor4kY4nY,9.0062255,77.1895049,"மேல்மருவத்தூர் ஆதிபராசக்தி வழிபாட்டு மன்றம்",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:46","0000-00-00 00:00:00",1415
+ChIJIwmxjdR_BjsRCRQs63o4i2U,9.006031399999998,77.1899753,"Sree Ayyappa Temple, Ayyappa seva sangam Puliyarai",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:47","0000-00-00 00:00:00",1416
+ChIJIRkQTt2ABjsRfxe5MT9SxEw,9.032322199999998,77.2295281,"Sri Paechiamman Karupasaamy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:48","0000-00-00 00:00:00",1421
+ChIJVVVVlRqBBjsR-9_U-D2N4qg,9.03594,77.2255658,"Thirumalai Kovil",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:49","0000-00-00 00:00:00",1422
+ChIJh_EnhcOABjsRHN91tNw1LuI,9.0360018,77.2256062,"Sri Thirumalai Kumaraswamy Temple",4.7,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:50","0000-00-00 00:00:00",1423
+ChIJmUxLjN2ABjsRu3fiR8pSaDQ,9.0318506,77.2330716,"Vandadumpottal Mariammenkovil",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:59:50","0000-00-00 00:00:00",1424
+ChIJJ5WqVRmBBjsRMxXJUtmgF3c,9.026579899999998,77.2464478,"God Of Durga Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:51","0000-00-00 00:00:00",1425
+ChIJsYakCQWBBjsR7r0ZiLX17Zo,9.0185633,77.2501003,"Madaswamy Temple T.M.P",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:51","0000-00-00 00:00:00",1426
+ChIJgxF9ZQWBBjsRkHynJehNYhg,9.019279599999999,77.2512989,"Amman Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:51","0000-00-00 00:00:00",1427
+ChIJtQUpQxuBBjsRkyKD4FXKDSE,9.0221962,77.2470128,"Sri Nagamman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:52","0000-00-00 00:00:00",1428
+ChIJGVQJZRuBBjsRgsioodHbsP8,9.022899800000001,77.2468679,"Sithi vinayagar temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:52","0000-00-00 00:00:00",1429
+ChIJswHVgRuBBjsReR5_ZHuom54,9.023720999999998,77.2464529,"Dharussalam Jummah Mosque",3.7,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:59:52","0000-00-00 00:00:00",1430
+ChIJTdfzZRuBBjsRlCv5u6hgaJI,9.022778299999999,77.2469502,"Sri Narapali konda amman",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:53","0000-00-00 00:00:00",1431
+ChIJ5-nS0ASBBjsRKGc-52tJf9s,9.020543499999999,77.2487716,"Sheik Mohammed Jummah Mosque",4,"mosque place_of_worship point_of_interest establishment","2017-07-27 10:59:53","0000-00-00 00:00:00",1432
+ChIJ38Z8YBqBBjsRQ2_abEF3oVo,9.0240107,77.2506143,"Kuruvi Kulam Karuppasamy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:53","0000-00-00 00:00:00",1433
+ChIJ40JavRqBBjsRsI-AZIc4gv0,9.022497099999999,77.2512406,"Pillaiyar kovil",-1,"place_of_worship point_of_interest establishment","2017-07-27 10:59:54","0000-00-00 00:00:00",1434
+ChIJoWF0jxqBBjsRIaXMppKfzLE,9.0233872,77.2512138,,5,"place_of_worship point_of_interest establishment","2017-07-27 10:59:54","0000-00-00 00:00:00",1435
+ChIJEc-lAxCBBjsRdOzIJ0op-q0,9.0214325,77.252554,"Tharmar kovil",2.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:55","0000-00-00 00:00:00",1436
+ChIJ-zMrXBCBBjsRoUQCnmQk8Vc,9.0236097,77.25362779999999,"Nagariswamudiayar Temple",3.7,"place_of_worship point_of_interest establishment","2017-07-27 10:59:55","0000-00-00 00:00:00",1438
+ChIJmUT6ZhGBBjsRT8JpOJXPRc0,9.025237599999997,77.2572488,"Aathupalam Sudalaimadasamy kovil, Karisalkudieruppu",4,"place_of_worship point_of_interest establishment","2017-07-27 10:59:56","0000-00-00 00:00:00",1440
+ChIJpY6uFXWBBjsRLzlzc0tGQKQ,9.0123867,77.2650936,"Adheenam Azhagiya Ayyanar Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 10:59:59","0000-00-00 00:00:00",1448
+ChIJl9GFnGuBBjsRLKEDzxaAn3E,9.0279662,77.2666826,"Bala Vinayagar Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:00","0000-00-00 00:00:00",1451
+ChIJteHK-2uBBjsR9cwpuSOgVGQ,9.027577299999999,77.268712,"Makhali ammen kovil",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:00:00","0000-00-00 00:00:00",1453
+ChIJa-1442uBBjsRUQV51Ey9fww,9.0280442,77.26892169999999,"Rajarajeswari ammen kovil",5,"place_of_worship point_of_interest establishment","2017-07-27 11:00:01","0000-00-00 00:00:00",1454
+ChIJrSFuIZ-BBjsRD_u85n9q3eQ,9.0065986,77.2660791,"VelMalai Sri Balasubramaniyar kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:02","0000-00-00 00:00:00",1459
+ChIJkTW70nuBBjsRGggwVeDlmZo,9.0173282,77.2779309,"Baludayar Sastha Kovil,Elathur",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:03","0000-00-00 00:00:00",1460
+ChIJZ1clrniBBjsRRP2L8zhH-X0,9.0120008,77.2802495,"Sri Seevalamuthu Amman Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:04","0000-00-00 00:00:00",1462
+ChIJAQAAQH6BBjsRBCP9mD1mZBc,9.017026699999999,77.2881287,"Elathur Sani Eswaran Temple",4.2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:04","0000-00-00 00:00:00",1463
+ChIJud_yDdWDBjsRkIzUy0QQbbo,9.0137032,77.2881988,"Sri Dharma Shastha Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:05","0000-00-00 00:00:00",1464
+ChIJv3tIF4CBBjsR9DVpUwnCPUk,9.0107906,77.28536749999999,"Elathur AG CHURCH",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:00:05","0000-00-00 00:00:00",1465
+ChIJtRpH0JqBBjsRPzEGLBRa8Mo,9.003845499999999,77.2754367,"A.G. Memorial Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:00:07","0000-00-00 00:00:00",1470
+ChIJCcrYBeiDBjsR2gfYApIlzdk,9.0342162,77.2983429,"Arulmigu Uthamiamman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:08","0000-00-00 00:00:00",1473
+ChIJ9Wlqx7SDBjsRcC3oyjyQaU8,9.0134559,77.3137012,"Sri Karpaga Vinayagar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:09","0000-00-00 00:00:00",1474
+ChIJnU3DAumDBjsRxGjlEDnRbEc,9.0370559,77.3009845,"ஸ்ரீ சங்கிலி பூதத்தார் கோவில் நெடுவயல்",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:09","0000-00-00 00:00:00",1475
+ChIJK2VrnOiDBjsReUk0pIiIRLI,9.037273100000002,77.29826779999999,"Vinayagar Kovil",4,"place_of_worship point_of_interest establishment","2017-07-27 11:00:10","0000-00-00 00:00:00",1477
+ChIJIw8vsq2DBjsRSXhQxfDzcGU,9.016388899999999,77.32350029999999,"Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:11","0000-00-00 00:00:00",1478
+ChIJ19riz6eDBjsRu4afkBl2rY4,9.024616999999997,77.3302404,"King Of Kings Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:00:12","0000-00-00 00:00:00",1480
+ChIJyRtTwqqDBjsRgVFaASE4aao,9.0143063,77.33049989999999,"Sri Panaiyadiyan Swamy Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:12","0000-00-00 00:00:00",1481
+ChIJ0y2q51OCBjsRMOreuae40Xg,9.0080431,77.3254225,"Thiripura sunthari Amman&Vadakasi Amman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:13","0000-00-00 00:00:00",1482
+ChIJx4eXZQGDBjsRI7pk1aiY79s,9.020311699999997,77.3339599,"Pillayar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:13","0000-00-00 00:00:00",1483
+ChIJE99P7giDBjsRUlnKH6igcwA,9.0259634,77.3361661,"Pillaiyar Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:13","0000-00-00 00:00:00",1484
+ChIJzw49PQqDBjsR3PTeJkCI_vY,9.0299468,77.33379459999999,Masjid,5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:00:14","0000-00-00 00:00:00",1485
+ChIJl5PU7AiDBjsRxHqjYAqNTdk,9.0255011,77.3362291,"Marthandapuram Mosque",4.5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:00:14","0000-00-00 00:00:00",1486
+ChIJ86Nj4wiDBjsRq4faD2WNzJE,9.026521299999999,77.3361536,"Senai Vinayagar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:15","0000-00-00 00:00:00",1487
+ChIJSwdSHAmDBjsRPFpIwd__CPA,9.027037499999999,77.33625590000001,"Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:15","0000-00-00 00:00:00",1488
+ChIJx4eXZQGDBjsR5NHkNzmqvdo,9.016955399999997,77.3375487,"Pillayar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:16","0000-00-00 00:00:00",1489
+ChIJOQI7UQGDBjsRCafp2ivrieo,9.018295099999998,77.33777789999999,"Thankamman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:16","0000-00-00 00:00:00",1490
+ChIJkW08gwGDBjsReFSyxWxjYe8,9.0158401,77.337538,"Perumal Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:16","0000-00-00 00:00:00",1491
+ChIJX-HVSqGDBjsR4yXhhJS4D-4,9.029307,77.3279106,"Deity Kulasekara Amman",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:00:17","0000-00-00 00:00:00",1492
+ChIJ_ZnJ4gODBjsRV-P-k_Q4lgs,9.0180971,77.33828369999999,"Jama Takneeswarar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:24","0000-00-00 00:00:00",1494
+ChIJF5B4E_uCBjsRqaozVTm_s3M,9.0066276,77.3421025,"Sampath Gopla Krishna Swamy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:27","0000-00-00 00:00:00",1505
+ChIJ42zc8wqDBjsROK80EjrVAxE,9.032631799999999,77.33420869999999,"Muppudathi Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:27","0000-00-00 00:00:00",1506
+ChIJ0ZhAFQuDBjsRCmh9VnSkK8s,9.0335474,77.3366763,"Kannan Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:28","0000-00-00 00:00:00",1507
+ChIJzavA0uSCBjsRJY5VrYBRMHs,9.006056899999999,77.3439968,"Akarai Sudalai Mada Swamy Kovil",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:28","0000-00-00 00:00:00",1508
+ChIJXxwWL_uCBjsRn0vcWhhHeDQ,9.005866200000002,77.34332619999999,"Pillayar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:29","0000-00-00 00:00:00",1509
+ChIJfzU80-SCBjsRJzLKLzdFgPQ,9.0059152,77.3440061,"Petchi Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:29","0000-00-00 00:00:00",1510
+ChIJb5oh__qCBjsRtV3PLmGfYZc,9.005113,77.3411467,"Balasubrahmanya Swami Temple",4.4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:30","0000-00-00 00:00:00",1511
+ChIJLdhSDSKDBjsRHHTuRob9s44,9.0207687,77.3560964,"Karadimadaswamy & Kottai Karuppaswamy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:30","0000-00-00 00:00:00",1512
+ChIJD_d8yCODBjsRWYF_neuxLt4,9.020715699999998,77.3589672,"muppudathi amman temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:41","0000-00-00 00:00:00",1553
+ChIJLZwDiiGDBjsRa5EnyPtTvMk,9.019425,77.35718899999999,"Kula Deivam Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:41","0000-00-00 00:00:00",1554
+ChIJAYMZiiGDBjsRVOZdm8YOlT0,9.01939,77.357173,"Masana Muthu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:42","0000-00-00 00:00:00",1555
+ChIJGXl4IiODBjsRZOltkWUYxT8,9.0235726,77.35878679999999,"Palavesakaran Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:43","0000-00-00 00:00:00",1556
+ChIJOw_bSCODBjsRLKEwuwfTFdM,9.0244273,77.3600189,"Kulasekara Amman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:43","0000-00-00 00:00:00",1558
+ChIJB_n1kSKDBjsRYvp_cZoJsME,9.022880599999999,77.3564888,"mela pillayar kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:44","0000-00-00 00:00:00",1559
+ChIJ7QoaTTmDBjsRIAJxhfSVpgM,9.031229900000001,77.3612722,"Muppudathi Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:44","0000-00-00 00:00:00",1560
+ChIJ7zKSUMicBjsRUEty2RaDNzQ,9.034504,77.387637,"aakhasa moorthy kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:45","0000-00-00 00:00:00",1561
+ChIJr9sIjCOdBjsRRjPXca7UTBA,9.008332599999997,77.39597800000001,"Iyappan Koil",4.2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:46","0000-00-00 00:00:00",1562
+ChIJXRudXyOdBjsRDLbsf-4Aelw,9.005742,77.3956534,"Mupudathi Amman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:47","0000-00-00 00:00:00",1563
+ChIJXdNDWjudBjsRQ4WD22ZvZy4,9.003758500000002,77.395128,"CSI Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:00:47","0000-00-00 00:00:00",1564
+ChIJidqoODudBjsRsKMwtHxI-bk,9.0035154,77.39414599999999,"Ramasamy Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:47","0000-00-00 00:00:00",1565
+ChIJSTA9F1WcBjsRsZn6wypq5uI,9.0180854,77.42631469999999,"Muppudathi Amman Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:48","0000-00-00 00:00:00",1566
+ChIJATgoH1ecBjsRkk3Lhtwd5Vw,9.0249667,77.4284917,"ஸ்ரீகரையடி அய்யனார் திருக்கோவில்",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:49","0000-00-00 00:00:00",1567
+ChIJm2UDllCcBjsR-oOVFSBLVK4,9.026463999999999,77.43149009999999,"Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:49","0000-00-00 00:00:00",1568
+ChIJLxDB1VKcBjsRtG-n99Eby0E,9.0169236,77.433073,"Mariamman Kovil",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:50","0000-00-00 00:00:00",1569
+ChIJ6wZsjFCcBjsR6yx8wYNHDMU,9.026358999999998,77.43248,"Maadan kovil",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:50","0000-00-00 00:00:00",1570
+ChIJC5GejlCcBjsRPSkZhuuJP_w,9.026475600000001,77.43243790000001,"Gandhi Raj",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:51","0000-00-00 00:00:00",1571
+ChIJDZGejlCcBjsRm2pZfEnJiD8,9.026475600000001,77.43243790000001,"Madasamy kovil",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:51","0000-00-00 00:00:00",1572
+ChIJ2TeTbFqcBjsRQyzmOyuN7F4,9.0283806,77.43158799999999,"Pillaiyar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:51","0000-00-00 00:00:00",1573
+ChIJpXpza1qcBjsR8vYULLRLyXI,9.028509,77.4316944,"C.S.I James Church land",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:00:52","0000-00-00 00:00:00",1574
+ChIJ10F_fVCcBjsRwd2rByww-lo,9.0269816,77.4329217,"C S I Church",4.8,"church place_of_worship point_of_interest establishment","2017-07-27 11:00:52","0000-00-00 00:00:00",1575
+ChIJS922fK6dBjsRtZ_KFkXHhpw,9.0106108,77.4331909,"CSI Church ,Kulaiyaneri -627859",2,"church place_of_worship point_of_interest establishment","2017-07-27 11:00:53","0000-00-00 00:00:00",1576
+ChIJJ-PIV6-dBjsRZBh0_Ec6ALY,9.005826500000001,77.43060799999999,"Pillaiyar Kovil",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:00:53","0000-00-00 00:00:00",1577
+ChIJ0Xyu4audBjsR3_otp7qF4Zc,9.0111502,77.4288253,"Arulmigu Aasoori Amman Kovil",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:00:54","0000-00-00 00:00:00",1578
+ChIJgzY6Va-dBjsRZjSRPMe3bJM,9.005863999999999,77.4300805,"Pathrakaali Amman Kovil",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:00:54","0000-00-00 00:00:00",1579
+ChIJi33kMbadBjsRjFdfeBOFVUk,9.009423700000001,77.4464022,"Vinayakar Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:03","0000-00-00 00:00:00",1589
+ChIJPWr9MbadBjsR0HeBbpwf0W0,9.009385899999998,77.44652789999999,"valividum vinayagar kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:04","0000-00-00 00:00:00",1591
+ChIJo09swMmdBjsRQ3tibLIvDU8,9.0103384,77.4486254,"Periyandavar koil",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:04","0000-00-00 00:00:00",1592
+ChIJvSvgtcmdBjsRFOimUnw_VeU,9.0094253,77.4487632,"Ammayapuram Chruch",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:01:05","0000-00-00 00:00:00",1594
+ChIJkzcJpcmdBjsRAe2GBFwUnco,9.009903499999998,77.44956049999999,"SHRI MARIYAMMAN KOVIL",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:05","0000-00-00 00:00:00",1595
+ChIJYUU3r8mdBjsRrJpabSYJuRM,9.0096945,77.44971799999999,"Mariamman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:06","0000-00-00 00:00:00",1596
+ChIJDfNq57edBjsRGXukAHq9NeM,9.007590799999997,77.4467951,"SHRI SANTHANA MARIYAMMAN KOVIL",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:06","0000-00-00 00:00:00",1597
+ChIJHYhHUsidBjsRaqYJqQjxE90,9.0088604,77.4495273,"Kaliamman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:07","0000-00-00 00:00:00",1598
+ChIJtTvbqsmdBjsRUhNp0oWAKKE,9.0091862,77.4499802,"Ulakamman Kovil Japparam",5,"place_of_worship point_of_interest establishment","2017-07-27 11:01:07","0000-00-00 00:00:00",1599
+ChIJkbcx6NSdBjsRtTbZM5ynpaw,9.0164176,77.46646369999999,"Pillayar (West) Temple",3.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:24","0000-00-00 00:00:00",1640
+ChIJPbBv19SdBjsRlmvczQciLdo,9.017215,77.46709670000001,"Vaduvachi Amman Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:25","0000-00-00 00:00:00",1641
+ChIJsfFuuCqcBjsRDIPSjurEyNI,9.0186905,77.4688214,"Pathira Kaliyamman Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:25","0000-00-00 00:00:00",1642
+ChIJe-SQNdWdBjsReX5ScZ_YT7U,9.0176759,77.4687034,"Ponvandu Ayyanar Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:25","0000-00-00 00:00:00",1643
+ChIJJxMhSdWdBjsRQ8kye2ds0GM,9.017416299999999,77.46904669999999,"Kaliyamman Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:26","0000-00-00 00:00:00",1644
+ChIJiQ-BQtWdBjsRZcJ5HRETJvE,9.016576500000001,77.4693149,"Pillayar (East) Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:26","0000-00-00 00:00:00",1645
+ChIJMfRBbtWdBjsRWA1QvwQ9srU,9.0159884,77.46921569999999,"Karuppaswamy Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:27","0000-00-00 00:00:00",1646
+ChIJ_zJweX-eBjsREgF8suChpbg,9.0149712,77.47069359999999,"Karukuvel Ayyanar Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:27","0000-00-00 00:00:00",1647
+ChIJwRP49IKeBjsRCrs4oLXd6KM,9.0262667,77.4717464,"Perumpadikaran Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:28","0000-00-00 00:00:00",1648
+ChIJ9can48idBjsR-lF_VPw0J8M,9.0089498,77.45102229999999,"Vinayaga Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:28","0000-00-00 00:00:00",1649
+ChIJbXb0_cidBjsR5x9JcSCGSWA,9.0091286,77.45055119999999,"Jappani Maada Samy Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:29","0000-00-00 00:00:00",1650
+ChIJu65n78idBjsRaZqgsihj3uc,9.0084581,77.4510947,"Anaikulam Mosque",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:01:29","0000-00-00 00:00:00",1653
+ChIJjW2B-cidBjsR9pKJ0_fBdmQ,9.008625300000002,77.450459,"Ulagamman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:30","0000-00-00 00:00:00",1655
+ChIJgxWm-MidBjsR4gWl3aFK6IM,9.0087498,77.4501351,"Vinayakar Kovil",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:31","0000-00-00 00:00:00",1657
+ChIJkzA098idBjsRlnCaERnVm9I,9.0083719,77.45045809999999,"VadakKaselvi Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:31","0000-00-00 00:00:00",1658
+ChIJj1fQxoueBjsREefrFwZtMa4,9.022270699999998,77.4886255,"Iyyanar - Periya samy Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:42","0000-00-00 00:00:00",1700
+ChIJH-oox4ueBjsRIa8axsZpxUw,9.022223899999998,77.4887281,"Iyanar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:43","0000-00-00 00:00:00",1701
+ChIJnYHsMYOeBjsR7JY1fclNAaQ,9.0285044,77.4738619,"Sri Mariamman Temple",4.8,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:44","0000-00-00 00:00:00",1703
+ChIJ0QX0M_WeBjsRX0s8d9rk-PU,9.020458699999999,77.4934293,"Thiruvenkadapotri Iyanar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:46","0000-00-00 00:00:00",1711
+ChIJu6o_6paeBjsRjQw8xuSvyZw,9.036178799999998,77.48569119999999,"Pillaiyar Kovil,Uchipothai",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:46","0000-00-00 00:00:00",1713
+ChIJFf0BsVmeBjsRW01hj3a_TRo,9.015848,77.50265879999999,"Pillayar Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:48","0000-00-00 00:00:00",1714
+ChIJC9s4t1meBjsREZH1E9HCPho,9.015779199999999,77.50288139999999,"Sri Durgai Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:48","0000-00-00 00:00:00",1715
+ChIJgRzot1meBjsRWgHL0111xUI,9.0157778,77.50312819999999,"Sri Chellaiar Amman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:48","0000-00-00 00:00:00",1716
+ChIJd_vixFmeBjsRF7EkINlTMfs,9.015538099999999,77.5037679,"Chela Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:49","0000-00-00 00:00:00",1717
+ChIJK5xc4lmeBjsRIwz7sNt60xY,9.0145924,77.5044988,"Sri Madaswamy Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:49","0000-00-00 00:00:00",1719
+ChIJgeaBVPCeBjsRIRtMmR-MID4,9.0274985,77.5019038,"Pillaiyar kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:50","0000-00-00 00:00:00",1720
+ChIJ4VdXbvCeBjsRsxWJP03vHAY,9.0281026,77.5037253,"Krishnan Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:50","0000-00-00 00:00:00",1721
+ChIJPR1oMPCeBjsRfea3MoPsY6Y,9.029085199999999,77.5023705,"R.C Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:01:51","0000-00-00 00:00:00",1722
+ChIJpaLacvCeBjsRomKQdRnME_g,9.0285445,77.5040331,"VadakasiAmman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:51","0000-00-00 00:00:00",1723
+ChIJgdJoblaeBjsRkwBuGJN9-Pw,9.0175415,77.5095018,"திரு,இறவை காடு காத்த காளிஅம்மன் கோவில்.",1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:52","0000-00-00 00:00:00",1724
+ChIJ228Ea_ueBjsRKTLJdtxzQEI,9.026006299999999,77.5143488,"CSI Church, Keelakalangal",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:01:53","0000-00-00 00:00:00",1727
+ChIJ7Qtowf2eBjsRloyctE0_LAM,9.025941,77.514381,"Christu Arasar Church",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:01:53","0000-00-00 00:00:00",1728
+ChIJBxtwO_2eBjsRheRMR0lwH2c,9.0293178,77.5140648,"Mariamman kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:53","0000-00-00 00:00:00",1729
+ChIJX95b7VKeBjsRC4S0gz-5Y4w,9.010030300000002,77.5139519,"Selava Venayagar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:54","0000-00-00 00:00:00",1730
+ChIJ_WhbbeueBjsRReMNJkdVPLE,9.036352599999999,77.4952526,"Malaikali Amman Kovil,Uchipothai",4.2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:54","0000-00-00 00:00:00",1731
+ChIJ-SJ3mlKeBjsRIh0-YGpuWB8,9.0092866,77.5141615,"SriVaratha raja Parumal Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:55","0000-00-00 00:00:00",1732
+ChIJq6qqqgOfBjsRrwsxrqq_KBI,9.0277469,77.5189458,"Kaliamman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:56","0000-00-00 00:00:00",1733
+ChIJo2RMzlKeBjsRFH8MFGgxaM4,9.0105959,77.5155539,"Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:01:56","0000-00-00 00:00:00",1736
+ChIJESFE2oCfBjsRD6TrfdvC2xo,9.0163832,77.55954710000002,"Aplasa Madan Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:00","0000-00-00 00:00:00",1747
+ChIJIRPe_YafBjsR-WmIO8xY9tI,9.0132228,77.55898119999999,"Applasa Madan Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:01","0000-00-00 00:00:00",1748
+ChIJFfMD9IefBjsRqyxtgUiN9xU,9.011282999999997,77.5616113,"Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:01","0000-00-00 00:00:00",1749
+ChIJUXNS5YefBjsR1UYxcSd_pSE,9.0108899,77.5612031,"Annamalai Sivan Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:01","0000-00-00 00:00:00",1750
+ChIJQV-y14efBjsRIQi9CUuQ1E8,9.010300800000001,77.5596249,"Pillayar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:02","0000-00-00 00:00:00",1751
+ChIJs9D4J1igBjsRrS5Et_o5bGM,9.011739,77.6056629,"ஒத்தவரத்தான் தவசி தம்பிரான் மருதுடையார் திருக்கோவில்",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:03","0000-00-00 00:00:00",1752
+ChIJQXZV1_-gBjsRsQomBjYJuGw,9.0224008,77.6099388,"Ariyanachi Amman Thirukkovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:03","0000-00-00 00:00:00",1753
+ChIJyfqQTAehBjsRj3hITT8xnhY,9.028222999999999,77.6088072,"அருள்மிகு ஸ்ரீ வடகாசி அம்மன் அருள்மிகு ஸ்ரீ காளியம்மன் திருக்கோவில்",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:04","0000-00-00 00:00:00",1754
+ChIJJYY15aehBjsRGTy93Y0EFxY,9.0340599,77.60705639999999,"St. Peter's Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:02:04","0000-00-00 00:00:00",1755
+ChIJc3PNiqehBjsRzZgP45h0B_A,9.034852299999999,77.60765719999999,"Amman Koil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:05","0000-00-00 00:00:00",1756
+ChIJfzp62fCgBjsRWVPYaYwTT7U,9.0096419,77.6144369,"Srinivasa Perumal Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:05","0000-00-00 00:00:00",1757
+ChIJWyNm1RyhBjsROOgRluSy0m8,9.0257984,77.6193498,"Kularkara Perumal Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:06","0000-00-00 00:00:00",1758
+ChIJ____e9qgBjsRU4FM6anFxHU,9.0173778,77.64276699999999,"Amman Kovil",1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:08","0000-00-00 00:00:00",1763
+ChIJL6AMpsagBjsRyTokFgr7Ypc,9.006387199999999,77.6405504,"CSI Prasanna deva alayam",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:02:09","0000-00-00 00:00:00",1764
+ChIJuao5v9GmBjsR0Hc1KV1yM9o,9.0338543,77.66107339999999,"Balu Illam And Land",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:02:10","0000-00-00 00:00:00",1765
+ChIJZQMqydGmBjsRWuXTqmHIGGw,9.0342887,77.6616682,"Csi Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:02:10","0000-00-00 00:00:00",1766
+ChIJJQSeJk-mBjsRV0HesP32Twc,9.0347781,77.7156296,"Sangilimadasamy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:12","0000-00-00 00:00:00",1768
+ChIJ6RPc8UimBjsRZgH4YGLW_FY,9.0354612,77.71876569999999,"Vaiyazhilingam Sastha Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:12","0000-00-00 00:00:00",1769
+ChIJuWj_8kimBjsRdrcphLXz0fE,9.035740400000002,77.7189022,"Rajakanni Amman",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:13","0000-00-00 00:00:00",1770
+ChIJbxGY-X2oBjsRiitlzIXsAOM,9.0272375,77.7515075,"St.Sebastian Church, Vellalankottai",4.7,"church place_of_worship point_of_interest establishment","2017-07-27 11:02:14","0000-00-00 00:00:00",1771
+ChIJr4uLuFCoBjsRZ0yrkNoZeMg,9.022217699999999,77.7808937,"Mottayaswamy Temple",1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:15","0000-00-00 00:00:00",1773
+ChIJs0EcNrKpBjsRpJANmNRJZlI,9.015832099999999,77.79528379999999,"Shakthi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:16","0000-00-00 00:00:00",1774
+ChIJIaxhTLKpBjsRoATiHkO4pxo,9.015832099999999,77.79528379999999,"PENDUGANATCHI AMMAN TEMPLE",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:16","0000-00-00 00:00:00",1775
+ChIJP1KyIwKpBjsRWEpjyMwFx4o,9.034777499999999,77.7925999,"Kirubasanam Church Of Christ",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:02:17","0000-00-00 00:00:00",1778
+ChIJcWGhAJSpBjsR3I-uk51iKHk,9.013793,77.8193204,Kaappulingampatti,2.3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:18","0000-00-00 00:00:00",1779
+ChIJ-dE3G56pBjsRrMRbSdlPej4,9.0293514,77.8188242,"Uppalapatiyar Krishnan Thiru Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:19","0000-00-00 00:00:00",1780
+ChIJ69EE4nWpBjsR3Qv97_nox0Y,9.0307885,77.819531,"Arulmigu Santhana Mariyamman Thiru Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:19","0000-00-00 00:00:00",1781
+ChIJPZj0EpWpBjsRbJn1-vesi20,9.009921,77.81544389999999,"SRI VARAMOORTHI AYYANAR KOVIL",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:20","0000-00-00 00:00:00",1782
+ChIJG83AGnipBjsRDjMjqRa5aP0,9.0307564,77.8259099,"Temple Of Santhana Maari Amman",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:20","0000-00-00 00:00:00",1783
+ChIJZfUpu3SpBjsRlOCvYyWmvNc,9.0343646,77.8147539,"THIRUVETTAI AYYANAR TEMPLE, SIVAGNANAPURAM, ANBU AND FAMILY GOD",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:21","0000-00-00 00:00:00",1784
+ChIJvQXKXwupBjsREn9rbq7mRNc,9.0348381,77.812513,"Vadakkuva Selvi & Kaliamman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:21","0000-00-00 00:00:00",1785
+ChIJ____YwupBjsRiEse2DXcQ1Y,9.0346349,77.81206809999999,"muthusamy kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:21","0000-00-00 00:00:00",1786
+ChIJ8YfHmhOqBjsRWik8d-icbMY,9.003184899999997,77.8561129,"Eswari Amman Temple",4.7,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:23","0000-00-00 00:00:00",1788
+ChIJAQAAFPGqBjsRKPRnVY8iGug,9.0175761,77.8899606,"பத்ரகாளியம்மன் கோவில்",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:24","0000-00-00 00:00:00",1789
+ChIJH3arT9qqBjsREL3oPmDnuAg,9.025658399999998,77.9144357,"Amman Kovil",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:25","0000-00-00 00:00:00",1791
+ChIJdcurT9qqBjsRlozZpbDkFME,9.025664899999999,77.9144424,"Arulmigu Selli Amman Koil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:25","0000-00-00 00:00:00",1792
+ChIJrVY7fiJVATsR2y1xhuDcu_g,9.026076,77.9507768,"Kaaliamman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:27","0000-00-00 00:00:00",1795
+ChIJf1XmhBhVATsR96hX9-Q4p_k,9.0266389,77.95152279999999,"Roman Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:02:28","0000-00-00 00:00:00",1796
+ChIJ6cf99BhVATsRSWoU-N5yb4g,9.0262697,77.9525997,"Marriyamman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:28","0000-00-00 00:00:00",1797
+ChIJd7W39RhVATsRN1_M0UWSDdY,9.0262332,77.9527107,"Mariyamman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:29","0000-00-00 00:00:00",1798
+ChIJjRLswRhVATsRfsFYt__FHwY,9.0275216,77.95274189999999,"Batharakaliamman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:29","0000-00-00 00:00:00",1799
+ChIJef4FxbFVATsR2UP5GVefTXg,9.028007100000002,77.9861545,"kasiammal Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:31","0000-00-00 00:00:00",1805
+ChIJr-AKtHhWATsRQ5I7ZKzNo_A,9.0307885,78.0206189,"Siddhu Mahalingam Temple",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:02:33","0000-00-00 00:00:00",1807
+ChIJ1zaXVX9WATsR0LCkGiexlmg,9.031233499999999,78.0196077,"Vinayaka Temple",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:02:33","0000-00-00 00:00:00",1808
+ChIJVY5BUX9WATsROZDsfloBvUM,9.031431900000001,78.01997709999999,"Venkatesa Perumal Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:34","0000-00-00 00:00:00",1809
+ChIJ5xigSUFWATsRi8OqafET23Q,9.0198922,78.0476274,"Nagammal Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:35","0000-00-00 00:00:00",1810
+ChIJL9TgykZWATsR9-keht87CCM,9.0195958,78.0481745,"Ellammal Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:35","0000-00-00 00:00:00",1811
+ChIJj721tUZWATsR8BRNjneauEw,9.019906100000002,78.0483368,"Sri Petchi Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:35","0000-00-00 00:00:00",1812
+ChIJrejwp0ZWATsRLaSDE59nwSQ,9.0210958,78.04884109999999,"Sri Ujinimahali Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:36","0000-00-00 00:00:00",1813
+ChIJ8T7dHERWATsR87HZSHcTIZM,9.021332000000001,78.04887099999999,"Arulmigu Solaiappan Swamy Temple",3.3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:36","0000-00-00 00:00:00",1814
+ChIJh6zvb0RWATsRWCw44ZG0PKM,9.023106799999997,78.0488434,"Varadharaja Perumal Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:37","0000-00-00 00:00:00",1815
+ChIJtwLbT0dWATsRnWtxLlkPS5A,9.016404999999999,78.048666,"Sudalai Madasamy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:37","0000-00-00 00:00:00",1816
+ChIJTdh7O0ZWATsRK7Sj8fzmJXc,9.019532900000002,78.0529127,"Sri Solaiappa Swamy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:38","0000-00-00 00:00:00",1817
+ChIJ____P2FWATsRcxzCyn_4Fx0,9.032979000000001,78.03808819999999,"ERULAPPSWAMY TEMPLE",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:02:38","0000-00-00 00:00:00",1818
+ChIJTdh7O0ZWATsRX86vd-aZHd4,9.019532900000002,78.0529127,"Sri Solaiappa Swamy Temple",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:02:39","0000-00-00 00:00:00",1819
+ChIJPefNjUpWATsRSD6zanLALNU,9.017222900000002,78.06289579999999,"SRI BADHRAKALI AMMAN KOVIL",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:39","0000-00-00 00:00:00",1820
+ChIJx90y9TVWATsRwKypUGz5ihc,9.0159752,78.0609087,"Iyyanar Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:40","0000-00-00 00:00:00",1821
+ChIJvwQMuEpWATsR8_Zv1ZzT3QQ,9.017730300000002,78.06430160000001,"sri kaalai madasamy kovil",-1,"place_of_worship premise point_of_interest establishment","2017-07-27 11:02:42","0000-00-00 00:00:00",1830
+ChIJf5G6u8ZXATsRQ7EwcGMJzNo,9.012234099999999,78.0813684,"Sri Poo matha parameshwari amman Temple",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:02:43","0000-00-00 00:00:00",1832
+ChIJn8uH_cNXATsRl4qQ5zQNW9I,9.0113737,78.0828032,"Sri Shivalingeshwarar Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:44","0000-00-00 00:00:00",1833
+ChIJ52FB_MNXATsR87nHvZXhA1g,9.011143299999999,78.08277629999999,"Sri Jegaveera Mottaiyasamy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:44","0000-00-00 00:00:00",1834
+ChIJMbMW98NXATsRiKD8M6bvAW8,9.0105878,78.08255369999999,"Sri Selva Vinayagar Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:44","0000-00-00 00:00:00",1835
+ChIJ41rn1MNXATsRDJxPg58nEvw,9.0112636,78.0850693,"AATHILINGA ESWARAR TEMPLE",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:45","0000-00-00 00:00:00",1836
+ChIJyUGr1MNXATsRKdrzUy-EAKU,9.011137999999999,78.0851555,"Athiliga Eswarar Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:45","0000-00-00 00:00:00",1837
+ChIJdbl3jsJXATsRsXZGhZe888E,9.008248000000002,78.08695,"KanniAmman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:46","0000-00-00 00:00:00",1838
+ChIJTTCXlMJXATsRD2t8lA_FY7c,9.0077308,78.0866961,"Pathirakali Amman Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:46","0000-00-00 00:00:00",1839
+ChIJTVJ7VsJXATsREDaV5CWMLeY,9.0077257,78.08669820000001,"பத்ரகாளியம்மன் ஆலயம்",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:47","0000-00-00 00:00:00",1840
+ChIJ8b5GvMJXATsRACE6JbukecQ,9.007224599999999,78.0870501,"மாரியம்மன் ஆலயம்",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:47","0000-00-00 00:00:00",1841
+ChIJaWtq9_NXATsRnalsTjtel7M,9.0128506,78.1048617,"Amman Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:48","0000-00-00 00:00:00",1844
+ChIJR2BCq6hYATsR5E_0I9WXGuc,9.004274,78.192346,"Arulmighu Pachi Amman Temple - Murugappa nadar vagayarah",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:52","0000-00-00 00:00:00",1851
+ChIJVVVVRcpYATsRv74gmAh39uc,9.0226054,78.1984773,"Pathira Kaliamman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:52","0000-00-00 00:00:00",1852
+ChIJbYg2wcxYATsRgMRjsF1cOe0,9.0276786,78.2009451,"Sri Muniyasamy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:53","0000-00-00 00:00:00",1853
+ChIJ16MkN81YATsRPX99aBfQ6TQ,9.0298892,78.20146480000001,"Vinayagar Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:53","0000-00-00 00:00:00",1854
+ChIJgw3SsDJfATsRNzWu966MvR4,9.0305594,78.20261479999999,"Selvi Amman Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:54","0000-00-00 00:00:00",1855
+ChIJFffIyqhYATsRTtCtHFWXkfQ,9.004022199999998,78.19216759999999,"PECHI AMMAN TEMPLE-Madasamy Nadar (PONTHAVAKKAM)",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:54","0000-00-00 00:00:00",1856
+ChIJ5S05Ta9YATsRJ6LxerOl8N0,9.0041797,78.1914408,"Kulathoor Arulmigu Bathrakali Amman Temple",4.8,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:55","0000-00-00 00:00:00",1857
+ChIJc5yIuwpfATsRulZzD7w_pYs,9.02313,78.2466788,"sri mallammal temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:56","0000-00-00 00:00:00",1858
+ChIJ8WorUQpfATsRj-xALQeMPeg,9.0251409,78.24528339999999,"Pathinettam Padi Karuppasamy, Vaippar",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:56","0000-00-00 00:00:00",1859
+ChIJY1UofglfATsRZossTt4Ie10,9.0274975,78.2445548,"Vaippar Darga",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:02:57","0000-00-00 00:00:00",1860
+ChIJTbS33rlfATsRcoqkRfUlPPM,9.0333615,78.26644569999999,"St. Antony's Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:02:58","0000-00-00 00:00:00",1862
+ChIJKaHsALdfATsRq0clBGl0chE,9.036137,78.2674545,"Sri Muniyaswamy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:02:59","0000-00-00 00:00:00",1865
+ChIJraqqqrEDBjsRfAHKNwtn0ac,9.035454900000001,76.5101057,"Sree Mookkumpuzha Devi Temple",4.6,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:34","0000-00-00 00:00:00",1866
+ChIJC0dw_tEDBjsRRzugNxK5cEI,9.037471400000001,76.5086784,"Kochochira Sree Sankara Narayna Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:35","0000-00-00 00:00:00",1869
+ChIJS8Tik9EDBjsRTKbGsN1ycC8,9.035936999999999,76.50939160000001,"St. Sebastian's Church, Pandarathuruth.",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:03:35","0000-00-00 00:00:00",1870
+ChIJ4eAeC8oDBjsReRgKPHuNfGs,9.0481441,76.5070134,"Kalariparambil Maha Ganapathy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:36","0000-00-00 00:00:00",1871
+ChIJR3Eg1UoCBjsRGGZ4dYSMTd4,9.050692199999999,76.5024912,"Cheriazheekkal Devi Temple",3.3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:36","0000-00-00 00:00:00",1872
+ChIJwwS9DckDBjsRSBk_sXz5kxI,9.045191899999999,76.51002749999999,"Thurayilkunnu Sree Subramanya Swami Temple",3.7,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:37","0000-00-00 00:00:00",1873
+ChIJDazWKbUDBjsRH1qo6lABOZo,9.0508389,76.5030711,"Sree Kashi Vishwanadha Temple",4.6,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:37","0000-00-00 00:00:00",1874
+ChIJT3-n_rUDBjsRX9gG4y91M3o,9.048746000000001,76.50804,"Three Kings Latin Catholic Church",4.7,"church place_of_worship point_of_interest establishment","2017-07-27 11:03:38","0000-00-00 00:00:00",1875
+ChIJfwgrp8MDBjsRk_m9UlS9mlA,9.0403591,76.517,"Juma Masjid",5,"place_of_worship point_of_interest establishment","2017-07-27 11:03:38","0000-00-00 00:00:00",1876
+ChIJq87b37YDBjsRA9vadJ4tkdA,9.0525731,76.51111159999999,"Muslim Jama Ath",-1,"mosque premise place_of_worship point_of_interest establishment","2017-07-27 11:03:39","0000-00-00 00:00:00",1877
+ChIJIaqQhMADBjsRx_SOFovS6nE,9.0489433,76.5220928,"Nusrathul Islam Mosque",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:03:47","0000-00-00 00:00:00",1884
+ChIJzdtpFOkDBjsR8yxR9JVugZU,9.042199999999998,76.52976389999999,"Kannampallil Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:48","0000-00-00 00:00:00",1885
+ChIJfb2tv7gDBjsRjdjZWQcdfX8,9.049955200000001,76.5186153,"Edakkottu Temple",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:48","0000-00-00 00:00:00",1886
+ChIJPbIIa78DBjsRIJfZ8Tytpfg,9.0500724,76.5215939,"Nediyavila Devi Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:49","0000-00-00 00:00:00",1887
+ChIJhcIvM-kDBjsRsyXziiOWmXM,9.042019999999999,76.5314423,"Kandalachan Siva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:50","0000-00-00 00:00:00",1891
+ChIJ2fuWUpUDBjsRe924bIApcuc,9.049931699999998,76.526207,"Kochandisseril Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:03:50","0000-00-00 00:00:00",1892
+ChIJXS2-Vu8DBjsRnZM2BQg_09o,9.038710799999999,76.53192179999999,"Bethel Mar Thoma Church Ayanivelikulangra",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:03:51","0000-00-00 00:00:00",1894
+ChIJXWc2H-wDBjsRb_SRjiWBGls,9.0442,76.532827,"Heavenly Feast Worship centre , Karunagappally",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:03:52","0000-00-00 00:00:00",1896
+ChIJ1z9UtvcDBjsRFbzpnpLM0Xw,9.041238100000001,76.54722009999999,"St. Thomas Evangelical Church Of India",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:04:09","0000-00-00 00:00:00",1938
+ChIJi4_n9fADBjsRiY1v__hlwJw,9.0403673,76.54024299999999,"St.Thomas Mar Thoma Church",4.2,"church place_of_worship point_of_interest establishment","2017-07-27 11:04:10","0000-00-00 00:00:00",1939
+ChIJdU2vhvADBjsRssZ_Gr7r7VU,9.039150200000002,76.5404908,"Kannetty Muslim Jamaath Mosque",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:04:10","0000-00-00 00:00:00",1940
+ChIJzbo_cvoDBjsRbnbAIUl_sec,9.0382214,76.5413189,"Puthethu Temple",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:11","0000-00-00 00:00:00",1941
+ChIJ0zcOjO8DBjsR9Gyo89HXB6E,9.038963100000002,76.5355146,"Kesavapuram Sri Krishna temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:11","0000-00-00 00:00:00",1942
+ChIJBVDjpvsDBjsRq11BhXiytAw,9.03518,76.5403533,"TPM Church, Karunagapally",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:04:11","0000-00-00 00:00:00",1943
+ChIJ43aJD-UDBjsRmD04hW2jzMg,9.0365552,76.5349782,"Nagariyil ,Sri durga temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:12","0000-00-00 00:00:00",1944
+ChIJ9SMg9_YDBjsRraPe-OAPxqs,9.0425027,76.5456604,"SNDP Branch 415 Kollaka",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:12","0000-00-00 00:00:00",1945
+ChIJtxOqBeUDBjsRyiQEEU3yBDw,9.0363893,76.5349104,"Manayasseril Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:13","0000-00-00 00:00:00",1946
+ChIJv4NhYu4DBjsRudvyOtThOYA,9.043095400000002,76.5344417,"durga temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:13","0000-00-00 00:00:00",1947
+ChIJAShHf_IDBjsRzvRzAkNCVpk,9.0464799,76.5373415,"Kalari Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:13","0000-00-00 00:00:00",1948
+ChIJ52lJ_PIDBjsRzxjJg7BG0co,9.047291099999999,76.5399456,"Karimpalil Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:14","0000-00-00 00:00:00",1949
+ChIJacYz5_cDBjsRFFZ0_gSt9wk,9.0403057,76.5484438,"St. Thomas Evangelical Church Of India Salem Parish",3,"church place_of_worship point_of_interest establishment","2017-07-27 11:04:15","0000-00-00 00:00:00",1952
+ChIJvTrFKwgEBjsRAh2d2S7I8Ng,9.0414991,76.54905710000001,"Kollaka AG Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:04:15","0000-00-00 00:00:00",1954
+ChIJ38PCKvwDBjsRxWpqe0mlBX8,9.030852,76.5429067,"Kuttivattam Juma Masjid",4.8,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:04:16","0000-00-00 00:00:00",1955
+ChIJKYYhdgcEBjsRDeS02Pp3oBA,9.0364016,76.5497908,"Manakkal Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:04:16","0000-00-00 00:00:00",1957
+ChIJGxSNpRkEBjsR_bE6vG1Kjkk,9.0376506,76.5680927,"Mannurkavu Devi Temple",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:33","0000-00-00 00:00:00",1998
+ChIJiX3wqnYEBjsRE2292EppXRg,9.055618999999998,76.5544564,"Mukkoottil Sree Bhadra Devi Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:34","0000-00-00 00:00:00",2000
+ChIJ0RvVTXEEBjsRhcAr67pVjtI,9.056349999999998,76.55495499999999,"Mukkuttil Sree Bhadra Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:34","0000-00-00 00:00:00",2001
+ChIJ6e9bYg4EBjsRdEjDT6vYYGo,9.0422951,76.557557,"Shariathul Islam Juma Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:04:35","0000-00-00 00:00:00",2002
+ChIJa4hR2QgEBjsRKRjTrWf8Mc0,9.041655,76.5535424,"Shalem Marthoma Church",1,"church place_of_worship point_of_interest establishment","2017-07-27 11:04:35","0000-00-00 00:00:00",2003
+ChIJe_GztwMEBjsRr0btwDX8l9o,9.031778500000001,76.55616289999999,"Mosque Champakadav",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:04:36","0000-00-00 00:00:00",2004
+ChIJZQfv2h4EBjsRcNasPfvcRtg,9.033571100000001,76.56846689999999,"Hebron Marthoma Chappel,Thottummugham,Mynagappally",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 11:04:36","0000-00-00 00:00:00",2006
+ChIJ__uy63IEBjsR56sZg1THA9Q,9.0508334,76.55848639999999,"Mahadeva Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:37","0000-00-00 00:00:00",2009
+ChIJpdhkHwIEBjsRZiKTZaE5ocU,9.029824300000001,76.5548329,"champakkadavu masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:04:38","0000-00-00 00:00:00",2011
+ChIJQUE7UAcEBjsRwlDSAEFHRCQ,9.034272999999999,76.54949599999999,"Masjidul Noor",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:04:39","0000-00-00 00:00:00",2014
+ChIJyxlxgnIEBjsRDp_kwPS2E0E,9.052561299999999,76.5603539,"Mararithottam Juma Masjid",4.5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:04:40","0000-00-00 00:00:00",2015
+ChIJLR2UgG0EBjsR8Ze333nzzHU,9.053251,76.5604511,"Gurudeva Temple , SNDP Yogam , S.N Samskarika Vedhi Reg No-142/85",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:40","0000-00-00 00:00:00",2016
+ChIJBymEgjoEBjsR3omUf0IigUc,9.0392254,76.5825981,"Vettikkadu Temple",4.7,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:58","0000-00-00 00:00:00",2058
+ChIJYRYHQyUEBjsRLOVKBPuFeWQ,9.039180300000002,76.58260349999999,"Vettikkattu Mahadeva Temple",3.7,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:04:59","0000-00-00 00:00:00",2061
+ChIJu3wTeyQEBjsR0W7IOKqkY_s,9.0370461,76.5783286,"REHOBOTH TRINITY CHURCH",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:04:59","0000-00-00 00:00:00",2062
+ChIJu3wTeyQEBjsRAYr14FQXbkc,9.0370461,76.5783286,"Muhiyadheen Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:00","0000-00-00 00:00:00",2063
+ChIJ-_ORtiUEBjsRQbjsiCcVypE,9.0364413,76.581037,"Madan Nada",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:00","0000-00-00 00:00:00",2064
+ChIJ__8PuTEEBjsRGxRYnqtd_4E,9.042071199999997,76.58733620000001,"Cherupilakkal Juma Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:00","0000-00-00 00:00:00",2065
+ChIJLWlbDCgEBjsRk87lL-a0zX4,9.030730199999999,76.5839767,"St. Stephens CSI Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:01","0000-00-00 00:00:00",2066
+ChIJyTiDEygEBjsRCXhhMyFyjtM,9.030771300000001,76.58454139999999,"AG KADAPPA",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:01","0000-00-00 00:00:00",2067
+ChIJlWJQgRUEBjsRwvQfpEEjEJY,9.0476944,76.5716135,"Juma Masjid",4,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:02","0000-00-00 00:00:00",2068
+ChIJ6zHjKZ4GBjsRat8Mbhc33Yk,9.0291,76.576796,"REHOBOTH TRINITY CHURCH",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:02","0000-00-00 00:00:00",2069
+ChIJB-d5hCAEBjsRlk9jiERQIoo,9.0296186,76.57532960000002,"TPM Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:03","0000-00-00 00:00:00",2070
+ChIJ5-luezIEBjsR5uzsCDaYna8,9.041237299999999,76.591745,"AG Church Mynagappally",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:03","0000-00-00 00:00:00",2071
+ChIJKzVk00kEBjsRRRw39vJzHHQ,9.051651099999999,76.5865061,"Valiyavila Devi Temple",2.3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:05","0000-00-00 00:00:00",2075
+ChIJbxxVOCsEBjsReyIv7KbU628,9.033849699999998,76.59416279999999,"Venga Ilayappan Sree Mahadevar Kshethram",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:05","0000-00-00 00:00:00",2077
+ChIJxczJxs0FBjsR7r2LD2P4yuE,9.0426849,76.59965609999999,"Sharon Fellowship Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:23","0000-00-00 00:00:00",2118
+ChIJcxs9VMMFBjsRwHzQvwJnpDU,9.0404885,76.6139682,"St. Thomas Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:23","0000-00-00 00:00:00",2119
+ChIJ9dbnAc4FBjsRrL99apmDQzg,9.041061,76.6011137,"Juma Masjid Kuttiyil Mukku",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:24","0000-00-00 00:00:00",2121
+ChIJuz8xmc0FBjsRte2in8Sb6tA,9.042039800000001,76.59833429999999,"St. Thomas Malankara Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:25","0000-00-00 00:00:00",2122
+ChIJIZF20dEFBjsRNhvnnR4PMCY,9.0406081,76.603297,"Salafi Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:25","0000-00-00 00:00:00",2123
+ChIJ36qcuNIFBjsRQQiA2nTIyaI,9.039500799999999,76.5960038,"St. Paul's CSI Church Mynagappally",4.3,"church place_of_worship point_of_interest establishment","2017-07-27 11:05:26","0000-00-00 00:00:00",2124
+ChIJecrPVdEFBjsRCy0G2KE1IQQ,9.035903600000001,76.60097929999999,"Chirakkara Sree Mahadevi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:27","0000-00-00 00:00:00",2125
+ChIJU8ue-dAFBjsR3xOl6kj-BrM,9.0381684,76.60428639999999,"Venga Central Juma Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:27","0000-00-00 00:00:00",2126
+ChIJwYHP3s8FBjsRDCpfjJtnq-E,9.041340499999999,76.6048496,"Vengai Muslim Juma Masjid, ICS Junciton",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:28","0000-00-00 00:00:00",2127
+ChIJfZySGMwFBjsR86rqEU-zeYQ,9.045119099999999,76.6003382,"Anwarssery Juma Masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:28","0000-00-00 00:00:00",2128
+ChIJ89Ito9QFBjsRPhDWJHiUaAU,9.0347838,76.5962851,Masjid,-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:29","0000-00-00 00:00:00",2129
+ChIJMWxMAtcFBjsRaQWHxvhNRCA,9.033466899999999,76.6038871,"Kannankara Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:29","0000-00-00 00:00:00",2130
+ChIJV_rMlMUFBjsRLsYKK2v7O9s,9.045531299999999,76.608351,"Thettikuzhy Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:31","0000-00-00 00:00:00",2134
+ChIJST8VirUFBjsR9HiT8OG1kEw,9.051827600000001,76.5991138,"Tharamel Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:31","0000-00-00 00:00:00",2135
+ChIJTYQL2McFBjsRPQxdJ5mBhd0,9.050073099999999,76.6066317,"Palamballil Sree Durga Devi Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:31","0000-00-00 00:00:00",2136
+ChIJ45LbU-UFBjsRHiVEVNiflxY,9.0416368,76.62964070000001,"Sasthamcotta Sree Dharma Sastha Temple",4.8,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:49","0000-00-00 00:00:00",2179
+ChIJJXUosdwFBjsRNwIwXV5JxjA,9.040973599999997,76.6134271,"St. George's Shrine",4,"place_of_worship point_of_interest establishment","2017-07-27 11:05:50","0000-00-00 00:00:00",2181
+ChIJcbsnRsMFBjsRx5FVlAwuaWw,9.0420815,76.6135968,"ICS Masjid Al-Badriyya",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:50","0000-00-00 00:00:00",2182
+ChIJ-Ub7_OkFBjsRad9wJlDir4Y,9.0465137,76.6183734,"Kadukkavu Devi Temple",5,"place_of_worship point_of_interest establishment","2017-07-27 11:05:51","0000-00-00 00:00:00",2183
+ChIJdxJ4WsMFBjsR0v8EzLw03U0,9.0421325,76.6128896,"Anjilimoodu Salafi Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:51","0000-00-00 00:00:00",2184
+ChIJMxUmBO8FBjsRDT9eJxs8KN0,9.0440668,76.6268266,"Town Juma Masjid",4,"mosque school place_of_worship point_of_interest establishment","2017-07-27 11:05:52","0000-00-00 00:00:00",2185
+ChIJ0ZBoHfAFBjsRdVsUiIBxiIs,9.048488399999998,76.6191673,"Amman Kovil",3,"place_of_worship point_of_interest establishment","2017-07-27 11:05:52","0000-00-00 00:00:00",2186
+ChIJvzM8EewFBjsRYr5t0ZIACAk,9.0482056,76.62494749999999,"Ammankovil Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:53","0000-00-00 00:00:00",2188
+ChIJHQt_bMEFBjsRslqKKFpVURY,9.0476183,76.6136815,"Pallisserickal Muslim Juma Masjid",4.7,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:05:53","0000-00-00 00:00:00",2189
+ChIJJ4j6muoFBjsRoHY80qPEUEY,9.050586299999999,76.6187489,"Kotoor Devi Temple",3.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:54","0000-00-00 00:00:00",2191
+ChIJTTr_muoFBjsR0-clH5_Lb9I,9.0506101,76.6187261,AdimuttathuMadom,3,"place_of_worship point_of_interest establishment","2017-07-27 11:05:55","0000-00-00 00:00:00",2192
+ChIJfyLzouoFBjsR8xHbO3eRpXM,9.051213700000002,76.61873880000002,"kochukaleekkal devi temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:55","0000-00-00 00:00:00",2193
+ChIJERw_SvIFBjsRsFaGzGsKBrw,9.0481229,76.63201509999999,"Kannampallikkavu Temple",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:05:56","0000-00-00 00:00:00",2195
+ChIJZW7CJPUFBjsRzE89AzQ3n9Q,9.052323000000001,76.63901840000001,"Pulikkuzi Kayalvarathu Sree Durga Sree Rektha Chamundi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:06:14","0000-00-00 00:00:00",2239
+ChIJ2z0lzlkPBjsRW4zlPMSooUM,9.0440631,76.6453518,"Mount Horeb Ashramam",4.5,"place_of_worship point_of_interest establishment","2017-07-27 11:06:14","0000-00-00 00:00:00",2240
+ChIJPV55QFkPBjsRvWtJas8wtZI,9.046856699999998,76.64562459999999,"Mar Elia Chapel",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:15","0000-00-00 00:00:00",2241
+ChIJKUd2QVkPBjsRkseDzOF3dMY,9.0468991,76.6459036,"Mar Aliyas Chappel",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:15","0000-00-00 00:00:00",2242
+ChIJfx6lGlEPBjsRoDXPJOzsxvo,9.0394518,76.6491571,"West Kallada Mar Thoma Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:15","0000-00-00 00:00:00",2243
+ChIJK_2dMVIPBjsRAv74_F520BU,9.0365933,76.6503628,"St.Peter's CSI Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:16","0000-00-00 00:00:00",2244
+ChIJGzkYUFIPBjsRbzvUWHBRjYM,9.0353791,76.65057399999999,"Church Of God In India",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:17","0000-00-00 00:00:00",2246
+ChIJcRxGn1oPBjsRu7XnSxibUlg,9.0431659,76.65130719999999,"St. George Orthodox Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:17","0000-00-00 00:00:00",2247
+ChIJbytoClAPBjsRvz_oQqQcUvM,9.0427997,76.65161499999999,"St:Mary's Orthodox Church,muthupilakkadu",5,"place_of_worship point_of_interest establishment","2017-07-27 11:06:17","0000-00-00 00:00:00",2248
+ChIJb3k3nV4PBjsR5W1IMDMVMZo,9.0503558,76.6475478,"St. Thomas Malankara Catholic Church Piyatha and Chapel",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:18","0000-00-00 00:00:00",2249
+ChIJ59zs31wPBjsRHQ18xBJn6RI,9.0509263,76.6514641,"Panolil Sri Muhurthi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:06:19","0000-00-00 00:00:00",2253
+ChIJJaJPv0UPBjsRnNrvLfPp5iU,9.0447367,76.6570991,"Mannoor Nagaraja Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:06:21","0000-00-00 00:00:00",2257
+ChIJAQDUgjkPBjsRCuwwAZ8h660,9.046092999999999,76.66944819999999,"Immanuel Mar Thoma Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:38","0000-00-00 00:00:00",2298
+ChIJxSO4WEYPBjsROSqUycb5lIA,9.0458313,76.6604492,"Sree Yogeeswara Temple, Thuruthikkara",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:06:39","0000-00-00 00:00:00",2300
+ChIJF5a8xUYPBjsR5hMArulPpqA,9.0478368,76.660532,"Nediyavila Vijayarani Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:40","0000-00-00 00:00:00",2303
+ChIJWZtOBTcPBjsRKXJi7PFwCCo,9.041403,76.66795800000001,"St Thomas Evangelical Church",2.3,"church place_of_worship point_of_interest establishment","2017-07-27 11:06:40","0000-00-00 00:00:00",2304
+ChIJ629DqS8PBjsRCoFFSyf_RVc,9.0413471,76.6787982,"Cherupoika Sri MahaVishnu Temple",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:01","0000-00-00 00:00:00",2359
+ChIJpW_5mS0PBjsR8UyRff17ecU,9.036360899999998,76.6770239,"Thalappil Devi Temple",5,"place_of_worship point_of_interest establishment","2017-07-27 11:07:01","0000-00-00 00:00:00",2360
+ChIJXwl4VyYPBjsRnej6kjMvuU4,9.0466024,76.6839024,"Kallumon Malanada Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:02","0000-00-00 00:00:00",2361
+ChIJl5hp4tcOBjsRm3-73D3_jNM,9.043302299999999,76.68755089999999,"St. John's Malankara Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:02","0000-00-00 00:00:00",2362
+ChIJuZ8tLDsPBjsRIqcy_dPoxHI,9.0471958,76.67562780000002,"Dharmapuri Sri Chamundeshwari Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:03","0000-00-00 00:00:00",2363
+ChIJFWmAbc0IBjsRTOcrOlBvmTE,9.030887800000002,76.6749948,"Kattuvilla Devi Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:04","0000-00-00 00:00:00",2366
+ChIJ8QZI9SAPBjsRWgbeqnz6bhE,9.0521696,76.6859825,"Kannamballi temble",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:06","0000-00-00 00:00:00",2371
+ChIJ3e440NAOBjsRjbMpcd-fxHw,9.042332499999999,76.6938454,"Cherupoika Sreenarayanapuram Mahavishnu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:06","0000-00-00 00:00:00",2372
+ChIJw0Ko7yEPBjsRdPSqPohY58I,9.0540214,76.68259019999999,"wow church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:06","0000-00-00 00:00:00",2373
+ChIJLaVeqNAOBjsRwIIiozMA_SQ,9.044286,76.69385609999999,"Vallavam Thundil Sree Bhadrakali Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:07","0000-00-00 00:00:00",2374
+ChIJcy_VgiIPBjsRD4WW61n9scg,9.0545035,76.6780898,"panachamoottil shree mahalekshmi nagaraja temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:08","0000-00-00 00:00:00",2375
+ChIJtXzZ4tsOBjsRdfROdgGKZgw,9.049092300000002,76.6934028,"Gurudeva Temple Karikkal",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:08","0000-00-00 00:00:00",2377
+ChIJ6XVWqbYOBjsRLkGlMxnaEnY,9.040167799999999,76.7159326,"St. Kuriakose Jacobite Syrian Church, Puthoor",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:26","0000-00-00 00:00:00",2418
+ChIJn7VCdtIOBjsR8E6Uh-5yCII,9.0375715,76.6988819,"Airurkuzhi Gurudeva Mandiram",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:07:26","0000-00-00 00:00:00",2420
+ChIJ23e_btIOBjsRxw3HeJHpjsg,9.0374161,76.6980135,"Airurkuzhi Bhagvathi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:27","0000-00-00 00:00:00",2421
+ChIJk_sEA8UOBjsR2TooswwDiE4,9.0471709,76.70023259999999,"Karikkal Mahadev Temple",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:28","0000-00-00 00:00:00",2423
+ChIJge_uP8sOBjsROSItmadJoz8,9.035381800000001,76.7062935,"St. Joseph's Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:28","0000-00-00 00:00:00",2425
+ChIJTQYeysUOBjsRY8KGqeooeyU,9.047210999999999,76.70341169999999,"Puthoor Valiyapalli kurisadi",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:07:29","0000-00-00 00:00:00",2426
+ChIJG9EUg8YOBjsRyvUVom5hZd4,9.048128,76.70505899999999,"paripillil sree durgadevi temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:30","0000-00-00 00:00:00",2428
+ChIJ7W59T8YOBjsRB6jcXb_Q_sw,9.046739499999997,76.706959,"Kochaluvila Sree Durga Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:30","0000-00-00 00:00:00",2429
+ChIJ6ZSebsQOBjsRbdl7iycNhPU,9.0492619,76.70297029999999,"Kuzhikkal Sri Dharma Shastha Kshetram",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:30","0000-00-00 00:00:00",2430
+ChIJP-cvkMYOBjsRSAjP5xno1Ww,9.0482521,76.7056158,"St George Orthodox Church Kurisady",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:31","0000-00-00 00:00:00",2431
+ChIJyWLd28QOBjsR75tx44dN7-U,9.0489043,76.6944207,"St George Orthodox Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:31","0000-00-00 00:00:00",2432
+ChIJaz1MyrcOBjsR5ZHWS0GGi30,9.0426213,76.71184540000002,"Cheriyil Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:33","0000-00-00 00:00:00",2437
+ChIJX0sdSqoOBjsRoYyyjHQt5x0,9.0379658,76.732956,parakuzhikkavu,5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:50","0000-00-00 00:00:00",2479
+ChIJf3r_b7EOBjsRdn0sLr35Zbc,9.0406143,76.7184872,"CSI Church",3,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:50","0000-00-00 00:00:00",2480
+ChIJsYwAULEOBjsR8GR6HlwP5fw,9.040547099999998,76.7170519,"St.George Orthodox Church, Puthoor",4.7,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:51","0000-00-00 00:00:00",2481
+ChIJr_-F5rAOBjsR_CFmNQOR9MI,9.0431086,76.7180952,"St Mary's Malankara Catholic Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:51","0000-00-00 00:00:00",2482
+ChIJwxdo3bAOBjsRGBYkqa4aWGM,9.043198300000002,76.71772849999999,"St Mary Syrian Catholic Church Puthoor",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:52","0000-00-00 00:00:00",2483
+ChIJddpWCbQOBjsRmwiu0ZemYFM,9.038850799999999,76.7160071,"TPM PUTHOOR",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:52","0000-00-00 00:00:00",2484
+ChIJQSobxLAOBjsRxY11ixt7CkQ,9.0435791,76.71737209999999,"Kaniyapoika Shree Bhagawati Temple Pond",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:52","0000-00-00 00:00:00",2485
+ChIJKfLFf64OBjsR7fV6KH2_NlU,9.0402968,76.72493089999999,"Kathirikkunnu Temple",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:07:53","0000-00-00 00:00:00",2486
+ChIJ6R3Z7rYOBjsRPvX-TCx6Jxk,9.041652099999999,76.7144707,"Perungottappan Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:53","0000-00-00 00:00:00",2487
+ChIJGY6H_bQOBjsRKDpddDaREU4,9.037744599999998,76.71386,"Kalari Temple",4,"place_of_worship point_of_interest establishment","2017-07-27 11:07:54","0000-00-00 00:00:00",2488
+ChIJY1T9UbQOBjsRTpTXDeShyGE,9.0377393,76.7138547,"Kalariyil Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:07:54","0000-00-00 00:00:00",2489
+ChIJEQI1vbkOBjsRfYp1E3pKcoM,9.047221799999999,76.71479149999999,"Church Of God, Puthoor",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:07:55","0000-00-00 00:00:00",2491
+ChIJJQttYaQOBjsRzGkIbPFWIdA,9.0505399,76.7250754,"Sree Durgadevi Temple Mylamkulam",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:07:56","0000-00-00 00:00:00",2493
+ChIJQ5sIOAAMBjsR2PtqGySFkqU,9.037122799999999,76.7350807,"Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:14","0000-00-00 00:00:00",2539
+ChIJj_PuFgAMBjsR_pxvwdGhB4E,9.036344,76.7344869,"Sree Subrahmanya Swami Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:15","0000-00-00 00:00:00",2540
+ChIJRV-GEQAMBjsRDVA8jO4PZL4,9.035939399999998,76.7347186,"Siva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:15","0000-00-00 00:00:00",2541
+ChIJe5Au4wgMBjsRdZ9ckusxPrY,9.0390088,76.74786979999999,"Sree Paalamoottil Kavu. Perumkulam",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:16","0000-00-00 00:00:00",2542
+ChIJpxwq9QkMBjsR27OLgfifcSI,9.0370416,76.7507255,"Valiyavila Sree Bhadra Kali Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:17","0000-00-00 00:00:00",2545
+ChIJj6K-BBkMBjsRZA_GEtYdI64,9.053892,76.741661,"Vilarithala Sree Mahadeva Temple Thachanmukku",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:18","0000-00-00 00:00:00",2547
+ChIJd3su3QwMBjsR-rlQZtDnJas,9.0433377,76.755439,"കോഴിക്കോട്ട്കാവ് ക്ഷേത്രം",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:18","0000-00-00 00:00:00",2549
+ChIJy6ZtWA0MBjsRJ6JBoHxbOzk,9.0466607,76.75591299999999,"C S I Church(Elavilayil)",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:19","0000-00-00 00:00:00",2552
+ChIJDzfGuRIMBjsRFvFE6JEMGLI,9.0478461,76.75593889999999,"St. Mary's Malankara Syrian Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:20","0000-00-00 00:00:00",2553
+ChIJ8-ljF6AOBjsRH8_sYfgcjwo,9.055968600000002,76.7324531,"Mavady Sreekrishna Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:20","0000-00-00 00:00:00",2554
+ChIJwzs4eRYMBjsRxfvhxcxqkrQ,9.054959,76.7494933,"Poovattoor Bhagavathy Temple",4.8,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:21","0000-00-00 00:00:00",2555
+ChIJC1YWglUJBjsRbOHhWT1nTf4,9.0322855,76.7332012,"Sree Indilayappan Temple",-1,"place_of_worship premise point_of_interest establishment","2017-07-27 11:08:21","0000-00-00 00:00:00",2556
+ChIJV5J5-PELBjsRm0oWVigQh8c,9.025339500000001,76.7510562,"Kottathala Thanneerpanthal Devi Temple",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:08:22","0000-00-00 00:00:00",2557
+ChIJvzumr2UMBjsRrPlRNJaLTFo,9.050474699999999,76.77055399999999,"Malankara Catholic Church",3.5,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:39","0000-00-00 00:00:00",2598
+ChIJu0b0uXEMBjsRQFaWB7eBHbw,9.0453522,76.7645967,"SDA Church, Perumkulam",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:39","0000-00-00 00:00:00",2600
+ChIJZRUfGGwMBjsRF5X8PP_5CVU,9.0510571,76.7618028,"IPC Salem poovattoor east",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:41","0000-00-00 00:00:00",2604
+ChIJZc8m-msMBjsRuMcaAtAOuhw,9.0526851,76.7619014,"Poovattoor East Mahavishnu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:08:41","0000-00-00 00:00:00",2606
+ChIJ7a353WQMBjsR1hqIlSIUboc,9.0486209,76.77157849999999,"Assemblies Of God Church, Kalayapuram",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:42","0000-00-00 00:00:00",2608
+ChIJy0TSuYULBjsResi3daCrUes,9.029493099999998,76.7704037,"Bethel Marthoma Church,Inchakadu",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:43","0000-00-00 00:00:00",2609
+ChIJ0dEJr2UMBjsRNyyi-4j-MA0,9.0504514,76.77056329999999,"St. Mary's Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:43","0000-00-00 00:00:00",2610
+ChIJG8MWTnsMBjsR0QceCCqZRZU,9.0469378,76.7732666,"കലയപുരം വലിയപള്ളി കുരിശ്ശടി",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:08:44","0000-00-00 00:00:00",2611
+ChIJydkpooALBjsRRtJ2bqcdlwQ,9.036271399999999,76.7753403,"IPC SALEM CHURCH",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:44","0000-00-00 00:00:00",2612
+ChIJmTWdQGYMBjsRRVoP4F2OX28,9.053625400000001,76.7698796,"Holy Trinity CSI Church",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 11:08:46","0000-00-00 00:00:00",2616
+ChIJjVTS_WEMBjsRijWCKpUhh6Q,9.053094699999999,76.77971629999999,"Mar Baselios Gregorios Othodox Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:04","0000-00-00 00:00:00",2658
+ChIJQTex_2EMBjsR-4gb0WxUJ80,9.053124999999998,76.779702,"MGM Parish Hall (Valiyapalli), Kalayapuram",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:06","0000-00-00 00:00:00",2666
+ChIJ1zYKH4oMBjsRtp6UQTgKES8,9.0537437,76.7812103,"Daivamatha Malankara Syrian Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:07","0000-00-00 00:00:00",2668
+ChIJt0fk4GEMBjsR9McqtH-auGs,9.05419,76.77957549999999,"കുരിശ്ശുമുട് ജംഗ്ഷൻ",5,"place_of_worship point_of_interest establishment","2017-07-27 11:09:08","0000-00-00 00:00:00",2672
+ChIJ_zt6RI4MBjsRdfwJ1M0vhSA,9.051623500000002,76.78941069999999,"Nedialala bala subramanya swami temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:09","0000-00-00 00:00:00",2673
+ChIJ6cCJp2EMBjsRpFfokP_WDis,9.0547978,76.77693750000002,"Pattambalam Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:09","0000-00-00 00:00:00",2674
+ChIJt2oDQY4MBjsRMNcyG1HA2xg,9.0517919,76.7897162,"Nediyakala bhagavathi muhurthi kavu",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:10","0000-00-00 00:00:00",2675
+ChIJh54052YMBjsRttAR_1EAUWY,9.0549582,76.7767365,"Sree Durgadevi Temple, (Pattambalam)",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:10","0000-00-00 00:00:00",2676
+ChIJ33gN97sMBjsRj--kqGGkyos,9.0532775,76.8088853,"St. Stephens Orthodox Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:22","0000-00-00 00:00:00",2718
+ChIJ50wh4KAMBjsRPglELnrlyGw,9.0404514,76.80710739999999,"St Joseph Malankara Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:22","0000-00-00 00:00:00",2720
+ChIJS_uRUJcMBjsRxHqlQ1tKS80,9.0484964,76.797263,"Sri Mahadevar Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:23","0000-00-00 00:00:00",2721
+ChIJq6qq6pYMBjsRYu83X66iOvw,9.0523202,76.7985669,"Nediyakala Bhagavathi muhurthi kavu",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:24","0000-00-00 00:00:00",2723
+ChIJC4ys2LoMBjsRpSHQYQtj3Vc,9.0494367,76.81276919999999,"Sree Gurisikamankaavu Dharma Sasthaa Kshethram Pandithitta",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:26","0000-00-00 00:00:00",2728
+ChIJxZNniJMMBjsRcAzPBTsYIZI,9.0555601,76.7969827,"Sree Visarimundan Kalthare Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:26","0000-00-00 00:00:00",2729
+ChIJvWPvrr4MBjsRWp2tFIdVldU,9.054471999999999,76.808167,"TABOR MARTHOMA CHURCH",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:28","0000-00-00 00:00:00",2733
+ChIJrVUOfpMMBjsRwVto7RKR7T4,9.0566255,76.7970675,"Martha Mariyam Orthodox Church",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:28","0000-00-00 00:00:00",2734
+ChIJE6mXoZQMBjsR1fNF1HHQQVk,9.057801600000001,76.7974055,"Muhiyadeen Juma Masjid",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:09:28","0000-00-00 00:00:00",2735
+ChIJEdsip7IMBjsRd7z9y6IRXI0,9.049356999999999,76.82496499999999,"Kalari Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:29","0000-00-00 00:00:00",2736
+ChIJLTTteqwMBjsRi5y7jYsLxXk,9.0442847,76.82245189999999,"Sri Mahadeva Temple",4.3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:31","0000-00-00 00:00:00",2739
+ChIJ0VNw7lRzBjsRTqj_swJIKhI,9.0422086,76.82800280000001,"Thalavoor Marthoma Church, Naduthery",5,"place_of_worship point_of_interest establishment","2017-07-27 11:09:32","0000-00-00 00:00:00",2742
+ChIJUfYaYKl0BjsRKILC0WWLLAQ,9.0347328,76.8308419,"Sri Durga Devi Temple, Thrikkonnamarcodu, Thalavoor",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:32","0000-00-00 00:00:00",2744
+ChIJuTL4jbAMBjsRlqzBT-JBlLg,9.0522528,76.8155532,"St Mary's Malankara Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:34","0000-00-00 00:00:00",2748
+ChIJnYYrlE1zBjsR3tMv0Yikqmk,9.0506371,76.8300058,"Bethel AG Church",4.3,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:35","0000-00-00 00:00:00",2750
+ChIJn1Dtf05zBjsRerj_bqDEVfM,9.0520958,76.8317793,"St.George Orthodox Church , Naduthery (East), Thalavoor",4,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:35","0000-00-00 00:00:00",2752
+ChIJvyDZWKoMBjsRv_ntMwoKW2o,9.0401175,76.8229913,"St. Mary's Orthodox Church",-1,"church premise place_of_worship point_of_interest establishment","2017-07-27 11:09:36","0000-00-00 00:00:00",2753
+ChIJJ0t0CFJzBjsRIkkZz7q5sdM,9.049324799999999,76.8311468,"Koshapalli Sri Krishna Kshetram",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:09:36","0000-00-00 00:00:00",2754
+ChIJjUMyTERzBjsRKNPe_0MH8ak,9.053236,76.840767,"Trinity Marthoma Church",4.2,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:43","0000-00-00 00:00:00",2755
+ChIJv500plpzBjsR9yMCJTv0Zr8,9.048949600000002,76.83768719999999,"Edamulakkal Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:44","0000-00-00 00:00:00",2757
+ChIJAQAAAFBzBjsRjQVpdU9ocVI,9.049682299999999,76.83749949999999,"divyarakshaka Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:44","0000-00-00 00:00:00",2758
+ChIJWfva0lxzBjsR3NQSmHlbi5U,9.049924099999998,76.8455726,"Atoorkavu Devi Kshetram",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:46","0000-00-00 00:00:00",2762
+ChIJ_VdIRJ50BjsRaV76duZWirU,9.037643100000002,76.8528534,"St.Marys's Malankara Catholic church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:47","0000-00-00 00:00:00",2766
+ChIJOb856Z50BjsRHtVe9CeTdvM,9.0356645,76.85289130000001,"Avaneeswaram Juma masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:09:47","0000-00-00 00:00:00",2767
+ChIJXfa7DJ50BjsReSpOHPTFhoY,9.0381939,76.8543749,"Avaneeswaram Immanuel Marthoma Valiya Palli",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:48","0000-00-00 00:00:00",2768
+ChIJJWJgC550BjsR9IAAtSwsJjk,9.038222099999999,76.8544494,"MAR THOMA VALIYAPALLY",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:48","0000-00-00 00:00:00",2769
+ChIJmf95kkZzBjsRjtcJzl1xOWs,9.056321300000002,76.8411939,"St.Mary's Catholic Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:09:49","0000-00-00 00:00:00",2773
+ChIJ9_KnSGJzBjsRZegDP15jgzk,9.0415908,76.8565509,"Thaniyapan Kaavu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:09:50","0000-00-00 00:00:00",2774
+ChIJLV44lWVzBjsRJ5cXS1nTy2I,9.0491029,76.8562961,"IPC Ebenezer",4.5,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:02","0000-00-00 00:00:00",2820
+ChIJx1Xnp4FzBjsRWQWmAxqTMoY,9.0434463,76.8698787,"St.greegorios Orthodox Church Kariyara",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:03","0000-00-00 00:00:00",2821
+ChIJowqlGn9zBjsRo9hGUXBRuW8,9.043471499999999,76.8699002,"St. Gregorios Orthodox Church",1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:03","0000-00-00 00:00:00",2822
+ChIJa0EfqHhzBjsRJNSrMGnmmDk,9.0461256,76.87207819999999,"I P C Mount Hermon",4.7,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:05","0000-00-00 00:00:00",2826
+ChIJZ5cj13dzBjsRaEg67apu870,9.053094699999999,76.8718079,"kmukumchery,thiruvilangonappan kavu",5,"place_of_worship point_of_interest establishment","2017-07-27 11:10:06","0000-00-00 00:00:00",2831
+ChIJo552Yn10BjsRIdggQrKOQCM,9.0311301,76.8721411,"Near Vilakudy Juma Masjid",-1,"mosque premise place_of_worship point_of_interest establishment","2017-07-27 11:10:07","0000-00-00 00:00:00",2832
+ChIJ1ZGh83R0BjsRACAIXMKzYYs,9.0386081,76.897999,"Christ the King Church",3.5,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:14","0000-00-00 00:00:00",2834
+ChIJK9zgWHF0BjsRUdnPy5fkYCQ,9.0344175,76.88922819999999,"Kariyara Juma Masjid",3.5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:10:16","0000-00-00 00:00:00",2838
+ChIJqaisap1zBjsRGFQHrOQkm30,9.052339500000002,76.8732936,"Thiruvilangonappan temple",4.1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:10:18","0000-00-00 00:00:00",2845
+ChIJsbDkunh0BjsRvV16WeumPkg,9.039558099999999,76.8786269,"peedika bhagavathi temple",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:10:21","0000-00-00 00:00:00",2852
+ChIJ3T3ipPFzBjsR5aWeikVdqJQ,9.049914800000002,76.9028944,"Sharon Fellowship Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:32","0000-00-00 00:00:00",2894
+ChIJTW9lIvhzBjsRjbDDe2s6ygc,9.042793,76.90718129999999,"Elikattoor A.G Church, Vattacodu",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:33","0000-00-00 00:00:00",2895
+ChIJ750aU5NzBjsRQEGp3NlGfdU,9.0566798,76.8946155,"Zion Mar Thoma Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:34","0000-00-00 00:00:00",2900
+ChIJgYiiYfRzBjsRlqt2N-tFe-8,9.045333399999999,76.89817219999999,"Sree Durga Devi Temple",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:10:35","0000-00-00 00:00:00",2902
+ChIJnaZaDo1zBjsR-CyTP1veNS0,9.049872599999999,76.8928584,"The Pentecostal Mission Church",-1,"church premise place_of_worship point_of_interest establishment","2017-07-27 11:10:36","0000-00-00 00:00:00",2903
+ChIJSfsDwgR0BjsRbOsqTAzCr2A,9.032143399999999,76.9107354,"Alamcheri Masjid",-1,"mosque premise place_of_worship point_of_interest establishment","2017-07-27 11:10:36","0000-00-00 00:00:00",2904
+ChIJCzXQbVhxBjsRAnc9e34Gf3g,9.054289299999999,76.9190758,"Marthoma Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:43","0000-00-00 00:00:00",2905
+ChIJK3UXb6t2BjsRGvrmgEcuR50,9.0399485,76.9226754,"CMI Seminary",3.5,"place_of_worship point_of_interest establishment","2017-07-27 11:10:44","0000-00-00 00:00:00",2906
+ChIJwwK7PlZxBjsRQ8Rl24w1wWI,9.0488767,76.9193444,"St.Mary's Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:45","0000-00-00 00:00:00",2910
+ChIJPdxLUR10BjsRSQTfwJgDrDc,9.030555399999999,76.91782859999999,"Sri Dharmasastha Temple",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:10:46","0000-00-00 00:00:00",2911
+ChIJ7_5VvqV2BjsRgOjkkrgGdmY,9.029755499999998,76.9257229,"THE INDIAN PENTECOSTAL CHURCH OF GOD",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:46","0000-00-00 00:00:00",2912
+ChIJrxQTCqV2BjsRwMy08yUwkVs,9.0296786,76.9269159,"Prayer Centre Nellippally",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:47","0000-00-00 00:00:00",2913
+ChIJZ9BErx10BjsRtu_gLxoIXNk,9.0278011,76.916001,"First AG Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:47","0000-00-00 00:00:00",2914
+ChIJlzCGKKR2BjsRfujQYk8KTgM,9.0278555,76.9241978,"Sivan Kovil",3.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:10:48","0000-00-00 00:00:00",2915
+ChIJSa9XUqR2BjsRJzdLMV_Fj9E,9.0283524,76.9262688,"Siva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:10:48","0000-00-00 00:00:00",2917
+ChIJoSpItfxzBjsRlrE8vMgr7K8,9.052414,76.9137973,"Parra Ambalam",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:10:49","0000-00-00 00:00:00",2918
+ChIJpfjZMlhxBjsR9j_fGSC0NIc,9.054625800000002,76.917577,"Bethel AG Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:50","0000-00-00 00:00:00",2920
+ChIJF00X-uJzBjsRKOQ7kTtpoyo,9.0548494,76.9160035,"St. Marys Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:10:50","0000-00-00 00:00:00",2921
+ChIJx6oWtst2BjsRImCfSCNB3sY,9.0387476,76.94456869999999,"CSI Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:11:03","0000-00-00 00:00:00",2967
+ChIJq6qq2st2BjsREvsZEtC7vHg,9.0380188,76.9448613,"Assemblies Of God Vilakkuvattom,panthrandekkar",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:11:03","0000-00-00 00:00:00",2968
+ChIJYRvItTdxBjsRLiVGoDHDMq0,9.051103499999998,76.94269709999999,"St.George Orthodox Church",3,"church place_of_worship point_of_interest establishment","2017-07-27 11:11:04","0000-00-00 00:00:00",2969
+ChIJ0TmhHThxBjsRf6pyKz5oWuk,9.053575799999999,76.94218289999999,"St. Mary's Malankara Catholic Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:11:04","0000-00-00 00:00:00",2970
+ChIJo5MrgDdxBjsRLPBI8ySGw-8,9.053412300000002,76.944096,"Mahadevar Temple",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:11:06","0000-00-00 00:00:00",2976
+ChIJVQwNYESBBjsRhvTm_sf51MM,9.039456399999999,77.2720428,"Sri Sankilimaadan Temple",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:11:18","0000-00-00 00:00:00",2991
+ChIJSyDrfU-BBjsRLf76t--MaTQ,9.0436135,77.27167969999999,"Arafa Pallivasal",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:19","0000-00-00 00:00:00",2992
+ChIJI05beUOBBjsRq1rQ7GpbGUk,9.0377542,77.27243949999999,"Yadhavar Maha Vinayagar Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:19","0000-00-00 00:00:00",2993
+ChIJG36Vc0WBBjsRDrW3bsg9OjM,9.0424623,77.2725722,T.P.Pallivasal,4,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:19","0000-00-00 00:00:00",2994
+ChIJXT5Gg0SBBjsRv0LM148rWbQ,9.0384346,77.2727922,"Vinayakar Kovil",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:11:20","0000-00-00 00:00:00",2995
+ChIJJSzZIEWBBjsRt8FfDF3ktIQ,9.041066299999999,77.273853,"Big Masjid",4,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:20","0000-00-00 00:00:00",2996
+ChIJ-bY1J0WBBjsRlaxV6XdctiM,9.0410057,77.2739351,"Periya Pallivasal",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:21","0000-00-00 00:00:00",2998
+ChIJq4WZqkSBBjsRul79qTi46KA,9.0382727,77.27488629999999,"Sri Unmai Vinayagar Temple",5,"place_of_worship point_of_interest establishment","2017-07-27 11:11:22","0000-00-00 00:00:00",2999
+ChIJ75fTKluBBjsRdQXslM-ptgE,9.040807099999999,77.2750107,"தைக்கா முக்கு",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:22","0000-00-00 00:00:00",3000
+ChIJr4eH7lqBBjsRrUMDYyL6k6Y,9.042,77.276971,"மஸ்ஜிதுல் அஸ்ஹர்",4,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:24","0000-00-00 00:00:00",3004
+ChIJw5qFwOKDBjsRSIWP408qFPU,9.042956,77.287966,Masjid,-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:34","0000-00-00 00:00:00",3015
+ChIJTxibav2DBjsRwPNCM-xGZck,9.0454879,77.2877958,"Kattu Vava Mosque",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:34","0000-00-00 00:00:00",3017
+ChIJCZNpbP2DBjsR_XcziR8aLVw,9.0458714,77.2876811,"Juma masjid",4.7,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:35","0000-00-00 00:00:00",3018
+ChIJ4zNxEv2DBjsRICIjsNf7JnY,9.0461256,77.28816390000001,"Vinayagar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:35","0000-00-00 00:00:00",3019
+ChIJ3Whww_yDBjsRGGBcuD1wUkA,9.0452515,77.29022119999999,"Vinayagar Kovil,Parvathipuram",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:36","0000-00-00 00:00:00",3020
+ChIJ7dUFUfyDBjsRuEaoMMmfIhE,9.047370599999999,77.2898644,"Arulmigu Vadakasiamman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:36","0000-00-00 00:00:00",3021
+ChIJ1TpjgvyDBjsRXGujMvr4m1E,9.0464713,77.2921849,"Arulmigu Sri Vadakasi Amman Kovil, Parvathipuram",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:37","0000-00-00 00:00:00",3022
+ChIJpcOJC-WDBjsRCaZEh0nr_EI,9.0420305,77.2963017,"CSI Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:11:38","0000-00-00 00:00:00",3024
+ChIJ_eRqUO-DBjsREACzJY2YgVM,9.039669700000001,77.2985987,"Parai Adi Madasamy Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:49","0000-00-00 00:00:00",3066
+ChIJqxqRZ--DBjsR8RakdB5utGw,9.040269699999998,77.298542,"AVULIYA MEERASHA JIMMA MASJIID",4.4,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:11:50","0000-00-00 00:00:00",3067
+ChIJ64GKiO-DBjsRNNwMe-GWisw,9.0425123,77.2981581,"Thangamuthu Amman kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:50","0000-00-00 00:00:00",3068
+ChIJ______CDBjsRpy5JUidGAAM,9.047268999999998,77.30085059999999,"ESAKIAMMAN TEMPLE",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:52","0000-00-00 00:00:00",3073
+ChIJ31HzZ--DBjsRT4V1PU2MK8M,9.0402504,77.2985168,"AVULIYA MEERASHA JUMMA MASJID",-1,"mosque premise place_of_worship point_of_interest establishment","2017-07-27 11:11:55","0000-00-00 00:00:00",3081
+ChIJt65Y8XSDBjsR6_kZsty2lXE,9.037281,77.33638930000001,"Parvathi Amman Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:56","0000-00-00 00:00:00",3083
+ChIJ36DOo2iDBjsRdLP15kDkdiU,9.0459118,77.3509038,"Achampatti pillayar kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:11:59","0000-00-00 00:00:00",3092
+ChIJja2Pf2iDBjsRusnFzRBlFyU,9.046336599999998,77.3526663,"santhana mariamman temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:00","0000-00-00 00:00:00",3095
+ChIJBTiQSWKDBjsRvPzqsiozUwE,9.054721299999997,77.3481089,"King of Kings Church",3,"church place_of_worship point_of_interest establishment","2017-07-27 11:12:01","0000-00-00 00:00:00",3097
+ChIJvWs4G7KcBjsReTmDIOtFTGU,9.0467243,77.3836666,"Arulmigu Poigai Ootrudaiyar Sastha Karuppasamy Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:05","0000-00-00 00:00:00",3105
+ChIJ3ang0ZScBjsRkjc9gP9hdAo,9.037778399999999,77.404907,"Marriyamman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:06","0000-00-00 00:00:00",3107
+ChIJ0Xhz-pScBjsRrKguDEJ5NCU,9.039629999999999,77.40490369999999,"Pilayar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:07","0000-00-00 00:00:00",3108
+ChIJC2dZ95ScBjsRZ01EL1rSbK4,9.039784000000001,77.40494799999999,"Sri Periyamutharamman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:07","0000-00-00 00:00:00",3109
+ChIJHy4ysJOcBjsRv16YudaH2s4,9.040947,77.409392,"Sri Venni Udaiyar Sastha Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:08","0000-00-00 00:00:00",3110
+ChIJ0aITg5ScBjsRCwhFxI1ExF0,9.0395644,77.4068248,"YEMARAJA Templeman's",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:09","0000-00-00 00:00:00",3113
+ChIJWYJlXQucBjsRC1uzreDeX_c,9.057452600000001,77.4173917,"Thannuthu, Minnal Matha Church",3.4,"church place_of_worship point_of_interest establishment","2017-07-27 11:12:11","0000-00-00 00:00:00",3115
+ChIJrxiDz2KcBjsRE9IC3zU8hls,9.048288399999999,77.4262826,"Ayyanar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:11","0000-00-00 00:00:00",3116
+ChIJFxXejmScBjsRNVaYqXKn6xA,9.046800100000002,77.43094959999999,"Murukar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:12","0000-00-00 00:00:00",3118
+ChIJyf5E9WScBjsRRaaMk6vbEME,9.0464538,77.4315276,"Maada Samy Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:12","0000-00-00 00:00:00",3119
+ChIJd29W6GScBjsRyfYMa6ACHic,9.047611999999999,77.43203419999999,"Maari Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:13","0000-00-00 00:00:00",3120
+ChIJf31Ww2ScBjsRhYG2oGO4nfM,9.048106,77.432163,"Karupasamy Temple",4,"place_of_worship point_of_interest establishment","2017-07-27 11:12:13","0000-00-00 00:00:00",3121
+ChIJWxsJp3ucBjsRtjfVi-VGR98,9.0519498,77.431994,"Ramar Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:15","0000-00-00 00:00:00",3126
+ChIJ1RryJA2cBjsRZJ6VZVFbT3w,9.0553823,77.4477617,"Minnal Matha Church",3.6,"church place_of_worship point_of_interest establishment","2017-07-27 11:12:17","0000-00-00 00:00:00",3130
+ChIJ58t1zAycBjsREWiOXXWBEFQ,9.0533781,77.44750049999999,"PILLAYAR KOVIL",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:19","0000-00-00 00:00:00",3139
+ChIJ3YtunQycBjsRVm0Hm9l-nhE,9.0550985,77.4492748,"Pilliyar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:21","0000-00-00 00:00:00",3145
+ChIJL0BESR2cBjsRI6QDh_Idfp8,9.0500118,77.4690601,"Meenachi Amman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:23","0000-00-00 00:00:00",3148
+ChIJE7Q01r2eBjsR8ZNqKQzDd80,9.042405,77.4873333,"Anaikaththa Ayyanar Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:24","0000-00-00 00:00:00",3150
+ChIJEyqhKJSeBjsRSuCkNx2h50w,9.036840699999999,77.4876951,"Amman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:25","0000-00-00 00:00:00",3151
+ChIJAXkMGJSeBjsRiJY8W1Ho3S8,9.036143,77.4880455,"Uchipothai Ramar Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:25","0000-00-00 00:00:00",3152
+ChIJXT4Ur5WeBjsRnXoHCh5rpPI,9.0381555,77.4898084,"Vinayagar Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:26","0000-00-00 00:00:00",3153
+ChIJ3bwx5NmeBjsRtnB1wTdxJfQ,9.051401,77.511375,"Manjana Mariamman Kovil",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:31","0000-00-00 00:00:00",3168
+ChIJ4d5e1MChBjsRNGwe4zGOMcg,9.0382214,77.582252,"Quathadichi amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:35","0000-00-00 00:00:00",3175
+ChIJk-Haj6ChBjsRt2afNiRVZVA,9.040951699999999,77.6069468,"Kompumadasamy Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:36","0000-00-00 00:00:00",3176
+ChIJrXffmHWhBjsR7EMZ0Rtxp-8,9.0477822,77.60927029999999,"Arul Migu Sokka Alaga Ayyanar Thirukovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:37","0000-00-00 00:00:00",3179
+ChIJObKsQrKmBjsR55TyDM_ol7I,9.055475999999999,77.6571929,Arunagirinathar,-1,"place_of_worship point_of_interest establishment","2017-07-27 11:12:41","0000-00-00 00:00:00",3190
+ChIJRTbiGUamBjsRTnmKOuEXqTQ,9.037891300000002,77.71772770000001,"Sri Murugan Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:43","0000-00-00 00:00:00",3192
+ChIJ44l89hWmBjsRcPP3KSFFPf4,9.0485308,77.72700010000001,"Sri Vaipaar Udayar Sastha Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:45","0000-00-00 00:00:00",3197
+ChIJh3g1FBOmBjsR0ltFBrbkVag,9.055309099999999,77.72393699999999,"Sri Kommandi Amman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:45","0000-00-00 00:00:00",3198
+ChIJowV-UySmBjsRUZmSlwzPyZ4,9.040733200000002,77.7369843,"Sangilimadasamy Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:46","0000-00-00 00:00:00",3199
+ChIJCxB4nCWmBjsRFzYDeynOdzo,9.0387589,77.7369788,"Mariamman Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:46","0000-00-00 00:00:00",3200
+ChIJbX8YxZuoBjsRC_inNrkjyk8,9.043068900000002,77.75293169999999,"Ramar Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:48","0000-00-00 00:00:00",3203
+ChIJyw4f5PyoBjsR2uwJLfgODOU,9.0378717,77.7876781,"Karuthaudayar Sastha Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:50","0000-00-00 00:00:00",3208
+ChIJVVVVmf2oBjsR0TsTtgDw-4I,9.0366029,77.7899051,"Sendrayaperumal Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:50","0000-00-00 00:00:00",3209
+ChIJV3xy_B6pBjsRvHTePV6RHOI,9.0476361,77.7942964,"Sudalimadan Samy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:51","0000-00-00 00:00:00",3210
+ChIJV-jtqRupBjsRIXVA40BuffI,9.042741399999999,77.7991502,"Vinayagar Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:53","0000-00-00 00:00:00",3213
+ChIJiSdfqxmpBjsRYZCBlpGDb4o,9.0480564,77.7999036,"MuthuMariamman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:53","0000-00-00 00:00:00",3214
+ChIJI-YJVBapBjsRWC0ZORSIWMs,9.0486498,77.8055717,"Vinayakar Kovil",1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:12:54","0000-00-00 00:00:00",3216
+ChIJhzXMRr6rBjsRD-hIsu0Z10w,9.0513862,77.86350949999999,"Sri Aadhikesavaperumal",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:01","0000-00-00 00:00:00",3231
+ChIJn0UoR76rBjsRSFBEOoRqZxA,9.051446499999997,77.8634897,"Sri Krishnalingeshwara Nayakar Sannadhi",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:02","0000-00-00 00:00:00",3232
+ChIJWXCwhL2rBjsRFK3R_LWV1OE,9.052469900000002,77.8677608,"Sri kalie Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:02","0000-00-00 00:00:00",3233
+ChIJAUSFQZirBjsRHSwPFsTiyjU,9.0547624,77.8727742,"Sinneri Amman Kovil, 24 Mani Chettiyar",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:03","0000-00-00 00:00:00",3234
+ChIJpYr1LiSrBjsRKCkSnohIm7o,9.038843299999998,77.9134567,"St.Michael Church",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:13:04","0000-00-00 00:00:00",3236
+ChIJpYr1LiSrBjsRNxmZUqNica4,9.0383591,77.9147574,"St. Xavier's Church",3.5,"church place_of_worship point_of_interest establishment","2017-07-27 11:13:05","0000-00-00 00:00:00",3237
+ChIJT0TXzdNUATsRm4aTNL2WhxY,9.0413971,77.933033,"Sri Ayyanar Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:06","0000-00-00 00:00:00",3240
+ChIJawrORttUATsRP_VUuR4Z18A,9.043802599999998,77.9441088,"Sri Ulagamman Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:08","0000-00-00 00:00:00",3243
+ChIJkSK7cNxUATsR4Id0N_a6RFQ,9.0414136,77.9457242,"Sri Karuppasaamy Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:08","0000-00-00 00:00:00",3244
+ChIJQ2TlnNxUATsRThWA9VZwXgY,9.0429192,77.9455545,"Lourdhu Madha Church",5,"church place_of_worship point_of_interest establishment","2017-07-27 11:13:09","0000-00-00 00:00:00",3245
+ChIJSc-pytxUATsRRsD5q9Zo-PE,9.0448562,77.9467411,"Lingamma koil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:09","0000-00-00 00:00:00",3247
+ChIJr4mlytxUATsRVsDd6FXSKVI,9.0448436,77.9467669,"Sri LINGAMMAL Temple",3.4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:10","0000-00-00 00:00:00",3248
+ChIJvQNnQFBUATsR6gueg_Iv_yA,9.044615499999999,77.98377870000002,"Batrakaaliaman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:15","0000-00-00 00:00:00",3262
+ChIJG_5rU05UATsRDKjeRREvw2E,9.0434238,77.9877162,Subramaniyapuram,5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:16","0000-00-00 00:00:00",3263
+ChIJJd6bsTdUATsRtywBnfUm0_Q,9.044293,77.9986948,"Neerai Kulathu Ayyanar Temple",4.9,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:17","0000-00-00 00:00:00",3265
+ChIJ9Y-9yIRWATsRorHwEqioESg,9.046913,78.0269435,"Uththanda Ayyanar Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:20","0000-00-00 00:00:00",3271
+ChIJO3GhrJ1WATsRBsi6ehEyHGU,9.0504537,78.0223163,"Rakkachi Amman Kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:20","0000-00-00 00:00:00",3272
+ChIJ6y-eMZxWATsR8QS6tPgdz34,9.051981500000002,78.022825,"Annai Sri Pathirakali Amman Kovil",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:20","0000-00-00 00:00:00",3273
+ChIJiYxs251WATsRv5igQAXlfKo,9.0522309,78.0214563,"Sri Kamba Kamatchi Amman Koil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:21","0000-00-00 00:00:00",3274
+ChIJF4C3jZtWATsR9RaRwlqLKYk,9.0513253,78.025826,"Karumariamman kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:22","0000-00-00 00:00:00",3275
+ChIJFX9S1PNWATsR77rfUYevjhk,9.045299499999999,78.0478845,"Sri karumariamman kovil",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:23","0000-00-00 00:00:00",3277
+ChIJmyMoTmtXATsRButqKYYo9XY,9.055667,78.08850989999999,"God Murugan Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:25","0000-00-00 00:00:00",3280
+ChIJATUOJQhZATsRxLX39GnQGs8,9.053715700000001,78.157011,"Vinayagar Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:26","0000-00-00 00:00:00",3281
+ChIJVe-pIjtZATsRXHHpluaI7hA,9.054128599999999,78.1871264,"Sri Munieeshvaran Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:27","0000-00-00 00:00:00",3282
+ChIJO31VDztZATsRdJFOSMZwMVM,9.0551902,78.18704149999999,"Sri Vetrivel Swami Jeevaalayam",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:28","0000-00-00 00:00:00",3283
+ChIJKVJxBjtZATsRIqRC3OHpWkk,9.055196999999998,78.1871621,"Sri Vetrivel Swami Jeevaalayam",-1,"hindu_temple premise place_of_worship point_of_interest establishment","2017-07-27 11:13:28","0000-00-00 00:00:00",3284
+ChIJ_____1NeATsR6FuA10fqcWU,9.0494899,78.2533102,"Palakulam Sreekrishna Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:32","0000-00-00 00:00:00",3291
+ChIJZ3No9vZgATsR65w4ylGxb38,9.0491599,78.32349459999999,"Punitha Iruthaya annai aalayam",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:13:36","0000-00-00 00:00:00",3297
+ChIJJ3OYJ_1gATsR9DTny2J7yB8,9.0567705,78.3359481,"Sri Pechiyamman Kovil",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:13:37","0000-00-00 00:00:00",3298
+ChIJ39dasfkCBjsRwXThCAlYNHM,9.072480699999998,76.4928728,"Sree Kurukkasseril Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:11","0000-00-00 00:00:00",3299
+ChIJW6t2kvgCBjsR6BWMPaGrouM,9.070568500000002,76.4947138,"Alappadu Sree Subrahmaniaswami Temple",4.8,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:12","0000-00-00 00:00:00",3300
+ChIJeUYJblICBjsRhGaF4H7Nmvc,9.0595498,76.4986181,"Alappadu Arattukadavu",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:19","0000-00-00 00:00:00",3301
+ChIJ--l5Ia0DBjsRYb0NZJ5vf3g,9.061410799999999,76.50382189999999,"Sree Konnayil Bhagavathi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:19","0000-00-00 00:00:00",3302
+ChIJy_TKT1MCBjsRd7DzSRMv-HI,9.0635891,76.5020218,"Munduthura Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:20","0000-00-00 00:00:00",3303
+ChIJK4NKTlMCBjsRQ9e9Ye3GA_I,9.0635838,76.5020406,"Mundutharayil Sree Bhagavathi Temple,Adinadu",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:20","0000-00-00 00:00:00",3304
+ChIJo6Rvz1QCBjsRGyLcblenFI8,9.0661451,76.5019038,"Adinadu Thirupperumthura Sree Mootharayasseril Mahadeva Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:21","0000-00-00 00:00:00",3305
+ChIJFVCgabIDBjsRrdhxeR7fIQ4,9.057944599999997,76.5064475,"St.Joseph Shrine",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:14:21","0000-00-00 00:00:00",3306
+ChIJu6Ct6q0DBjsR4f1JRZ0VTdY,9.0604397,76.50692219999999,"Kariyida Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:22","0000-00-00 00:00:00",3307
+ChIJwT3sqK4DBjsRSTwmqQvmnb4,9.0639778,76.5085835,"Sakthiparambu Sree Bhadrakali Temple",1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:22","0000-00-00 00:00:00",3308
+ChIJ1wPF3rEDBjsR4UJpVq9AAFY,9.0589958,76.5101999,"Sree Narayana Guru Mandiram",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:23","0000-00-00 00:00:00",3311
+ChIJM1Odsa8DBjsRM6rTthmVSqU,9.061160199999998,76.5116537,"Althara Sree Krishna Swami Temple",3,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:24","0000-00-00 00:00:00",3312
+ChIJC1sysP8CBjsRbwoKg6Y8ve4,9.071867899999999,76.5004585,"Kanishapuram sree bhadra bhagavathy temple",-1,"place_of_worship point_of_interest establishment","2017-07-27 11:14:24","0000-00-00 00:00:00",3314
+ChIJ4Z5x67ADBjsRBUewtThP9ys,9.0555584,76.5125345,"Kanjiravelil Sree Bhadra Bhagavathi Temple",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:25","0000-00-00 00:00:00",3315
+ChIJt82Gz7oDBjsR7xnnzf96KLk,9.0581994,76.5160351,"Maruthoorkulangara Sree Mahadeva Temple",4.9,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:26","0000-00-00 00:00:00",3319
+ChIJr3AqLAIDBjsRWKs53LKwOaI,9.0757544,76.50510539999999,"Ayyan Koyikkal Sree Krishna Temple",2,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:27","0000-00-00 00:00:00",3320
+ChIJq6qqqp4DBjsR10nwZNb8Cdk,9.065442299999999,76.5314817,Cpim,-1,"place_of_worship point_of_interest establishment","2017-07-27 11:14:44","0000-00-00 00:00:00",3361
+ChIJDUqvT5ADBjsRM3NyAlrL1ss,9.0578146,76.5354414,"Thiroor Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:45","0000-00-00 00:00:00",3362
+ChIJ1UVjH50DBjsRsdMoJy5x_eQ,9.0685497,76.53588270000002,"Ahmadiyya Muslim Jama ath",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:14:45","0000-00-00 00:00:00",3363
+ChIJcYvT-7oDBjsR_fMsI-sotJ4,9.057141099999999,76.5165093,"Maruthoorkulangara Sree Durga Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:46","0000-00-00 00:00:00",3365
+ChIJjcOiMbwDBjsRjMwq7UOecCo,9.0551055,76.522351,"Jalaliyya spiritual academy masjid",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:14:46","0000-00-00 00:00:00",3366
+ChIJxWe5qaIDBjsR7k3fRZo19O0,9.060227799999998,76.5259015,"Cheruvillil Devi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:47","0000-00-00 00:00:00",3367
+ChIJh2_3RqEDBjsR10x8KHEL6zI,9.066186099999998,76.5208457,"Navolil Sree Moorthi Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:47","0000-00-00 00:00:00",3368
+ChIJJWZCOKcDBjsR_q0FhsEgBM8,9.0689882,76.51906129999999,"Khandakarnnankavu Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:48","0000-00-00 00:00:00",3371
+ChIJfT_mxpYDBjsRlvRIPx1pVvQ,9.0561593,76.5305042,"Vadakkepadeettathil Sree Annapoorneswari Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:14:51","0000-00-00 00:00:00",3375
+ChIJ5xdCFwgDBjsRsrUIaK1L05E,9.0709763,76.51530679999999,"Kochalumoodu Ahmadiyya muslim Jamaat",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:14:52","0000-00-00 00:00:00",3378
+ChIJq6qqqp4DBjsRrpMTeTqmzeY,9.065442299999999,76.5314817,"Koodapuzha T.B.C CHURCH",-1,"church place_of_worship point_of_interest establishment","2017-07-27 11:14:52","0000-00-00 00:00:00",3380
+ChIJYUXssI8DBjsRH_uWCZUrv5A,9.058204399999997,76.5391902,"Peruvakattu Durga Devi Nagaraja Temple",4,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:15:11","0000-00-00 00:00:00",3426
+ChIJAZMhMYQDBjsRU216Vao5fLo,9.0630793,76.5423553,"Madankavu Temple",4.5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:15:12","0000-00-00 00:00:00",3427
+ChIJRQkAuY4DBjsRlOkjCoHP73E,9.056213999999999,76.5421386,"Masjid Al-Jabl",5,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:15:12","0000-00-00 00:00:00",3428
+ChIJibz14pEDBjsRU0h8fWPtcZ4,9.055688499999999,76.5371574,"Padanayaar Mahadeva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:15:13","0000-00-00 00:00:00",3429
+ChIJrbeiGIwDBjsRXLV_DtvzuIw,9.054600500000001,76.5416408,"Thaikavu Masjid Market Road",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:15:13","0000-00-00 00:00:00",3430
+ChIJV8LA7JEDBjsRqEiKh94232o,9.055739500000001,76.5360883,"Padanaayar Kulangara Sree Mahadeva Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:15:14","0000-00-00 00:00:00",3431
+ChIJz8TSToYDBjsRVe_1zk8BE4E,9.062184600000002,76.5454307,"Railway Station Masjid",4,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:15:14","0000-00-00 00:00:00",3432
+ChIJITYdjpEDBjsR2gwPPME3wnM,9.055455700000001,76.535409,"Panayanaar Mahadeva Temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:15:14","0000-00-00 00:00:00",3433
+ChIJc0DAU5oDBjsRaFxr-IFPzeE,9.062573299999999,76.5339147,"Muslim Jama Ath",-1,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:15:15","0000-00-00 00:00:00",3434
+ChIJazgDH5IDBjsR-2HAit1TY5k,9.054606999999999,76.5359867,"Town Masjid",3.8,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:15:15","0000-00-00 00:00:00",3435
+ChIJy0zNW4wDBjsRtC660GR_xIA,9.052678799999997,76.541056,"Thevar kaavu Sree Devi Temple",5,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:15:16","0000-00-00 00:00:00",3436
+ChIJq6qqqp4DBjsReCH5e_Nz2ko,9.065442299999999,76.5314817,"Moolessaril Bhadra Bhagavathy temple",-1,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:15:16","0000-00-00 00:00:00",3438
+ChIJNxwNau0DBjsRWZelQRaNs2Q,9.050438300000001,76.53638769999999,"Salafi Masjid",3,"mosque place_of_worship point_of_interest establishment","2017-07-27 11:15:17","0000-00-00 00:00:00",3440
+ChIJIWzdo3AEBjsRvZjFhImuKxw,9.060572200000001,76.5557814,"Paattupurakkal Sree Ayyappa Temple",4.6,"hindu_temple place_of_worship point_of_interest establishment","2017-07-27 11:15:35","0000-00-00 00:00:00",3483
